@@ -13,7 +13,6 @@
 		<Item Name="API Reference.vi" Type="VI" URL="../SLSC Interface Class/API Reference.vi">
 			<Property Name="marked" Type="Int">0</Property>
 		</Item>
-		<Item Name="SLSC Driver.lvclass" Type="LVClass" URL="../SLSC Driver Class/SLSC Driver.lvclass"/>
 		<Item Name="SLSC Interface.lvclass" Type="LVClass" URL="../SLSC Interface Class/SLSC Interface.lvclass"/>
 		<Item Name="SLSC Local.lvclass" Type="LVClass" URL="../SLSC Local Interface Class/SLSC Local.lvclass"/>
 		<Item Name="SLSC Remote.lvclass" Type="LVClass" URL="../SLSC Remote Interface Class/SLSC Remote.lvclass"/>
