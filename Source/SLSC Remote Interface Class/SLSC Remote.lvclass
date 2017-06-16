@@ -82,7 +82,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Dev.Commands</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Dev.Commands</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Dev.Commands.vi" Type="VI" URL="../Read Dev.Commands.vi">
+					<Item Name="Read Dev.Commands.vi" Type="VI" URL="../Session Properties/Read Dev.Commands.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'&lt;!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#I!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!#X.M=W.$&lt;WVN97ZE!$Z!=!!6#X.M=W.$&lt;WVN97ZE!!%!"12T&lt;(.D!"5!A!!!!!!"!!1!!!!"!!!!!!!!$&amp;.-5U-A1W^N&lt;7&amp;O:!!!'E"!!!(`````!!9-2'6W,E.P&lt;7VB&lt;G2T!!!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!^44&amp;.$)&amp;*F&lt;7^U:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!Z44&amp;.$)&amp;*F&lt;7^U:3"J&lt;A!!6!$Q!!Q!!Q!%!!=!#!!%!!1!"!!%!!E!"!!%!!I$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!,!!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -96,7 +96,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Dev.Properties</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Dev.Properties</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Dev.Properties.vi" Type="VI" URL="../Read Dev.Properties.vi">
+					<Item Name="Read Dev.Properties.vi" Type="VI" URL="../Session Properties/Read Dev.Properties.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'B!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Q!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!$(.M=W.1=G^Q:8*U?1!!1%"Q!"5-=WRT9V"S&lt;X"F=H2Z!!!"!!5%=WRT9Q!6!)!!!!!!!1!%!!!!!1!!!!!!!!V44&amp;.$)&amp;"S&lt;X"F=H2Z!"R!1!!"`````Q!'$E2F&gt;CZ1=G^Q:8*U;76T!!!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!^44&amp;.$)&amp;*F&lt;7^U:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!Z44&amp;.$)&amp;*F&lt;7^U:3"J&lt;A!!6!$Q!!Q!!Q!%!!=!#!!%!!1!"!!%!!E!"!!%!!I$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!,!!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -112,7 +112,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Dev.Modules</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Dev.Modules</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Dev.Modules.vi" Type="VI" URL="../Read Dev.Modules.vi">
+					<Item Name="Read Dev.Modules.vi" Type="VI" URL="../Session Properties/Read Dev.Modules.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'8!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#I!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!#H.M=W.%:8:J9W5!!$R!=!!6#H.M=W.%:8:J9W5!!!%!"12T&lt;(.D!"5!A!!!!!!"!!1!!!!"!!!!!!!!#V.-5U-A2'6W;7.F!"B!1!!"`````Q!'#U2F&gt;CZ.&lt;W2V&lt;'6T!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"Q!)!!1!"!!%!!1!#1!%!!1!#A-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!M!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -126,7 +126,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Dev.NumSlots</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Dev.NumSlots</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Dev.NumSlots.vi" Type="VI" URL="../Read Dev.NumSlots.vi">
+					<Item Name="Read Dev.NumSlots.vi" Type="VI" URL="../Session Properties/Read Dev.NumSlots.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%M!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!".!"Q!-2'6W,EZV&lt;6.M&lt;X2T!!!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!^44&amp;.$)&amp;*F&lt;7^U:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!Z44&amp;.$)&amp;*F&lt;7^U:3"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!*!!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -142,7 +142,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Dev.HardwareVersion</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Dev.HardwareVersion</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Dev.HardwareVersion.vi" Type="VI" URL="../Read Dev.HardwareVersion.vi">
+					<Item Name="Read Dev.HardwareVersion.vi" Type="VI" URL="../Session Properties/Read Dev.HardwareVersion.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%V!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"R!-0````]42'6W,EBB=G2X98*F6G6S=WFP&lt;A!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!^44&amp;.$)&amp;*F&lt;7^U:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!Z44&amp;.$)&amp;*F&lt;7^U:3"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!*!!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -156,7 +156,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Dev.ProductCategory</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Dev.ProductCategory</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Dev.ProductCategory.vi" Type="VI" URL="../Read Dev.ProductCategory.vi">
+					<Item Name="Read Dev.ProductCategory.vi" Type="VI" URL="../Session Properties/Read Dev.ProductCategory.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%S!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"F!!Q!42'6W,F"S&lt;W2V9X2$982F:W^S?1!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!^44&amp;.$)&amp;*F&lt;7^U:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!Z44&amp;.$)&amp;*F&lt;7^U:3"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!*!!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -170,7 +170,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Dev.ProductName</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Dev.ProductName</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Dev.ProductName.vi" Type="VI" URL="../Read Dev.ProductName.vi">
+					<Item Name="Read Dev.ProductName.vi" Type="VI" URL="../Session Properties/Read Dev.ProductName.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%R!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"B!-0````]02'6W,F"S&lt;W2V9X2/97VF!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!E!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -184,7 +184,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Dev.ProductNum</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Dev.ProductNum</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Dev.ProductNum.vi" Type="VI" URL="../Read Dev.ProductNum.vi">
+					<Item Name="Read Dev.ProductNum.vi" Type="VI" URL="../Session Properties/Read Dev.ProductNum.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%O!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"6!"Q!/2'6W,F"S&lt;W2V9X2/&gt;7U!!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!E!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -198,7 +198,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Dev.SerialNum</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Dev.SerialNum</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Dev.SerialNum.vi" Type="VI" URL="../Read Dev.SerialNum.vi">
+					<Item Name="Read Dev.SerialNum.vi" Type="VI" URL="../Session Properties/Read Dev.SerialNum.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%P!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!":!-0````].2'6W,F.F=GFB&lt;%ZV&lt;1!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!^44&amp;.$)&amp;*F&lt;7^U:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!Z44&amp;.$)&amp;*F&lt;7^U:3"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!*!!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -212,7 +212,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Dev.VendorName</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Dev.VendorName</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Dev.VendorName.vi" Type="VI" URL="../Read Dev.VendorName.vi">
+					<Item Name="Read Dev.VendorName.vi" Type="VI" URL="../Session Properties/Read Dev.VendorName.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%R!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"B!-0````]/2'6W,F:F&lt;G2P=EZB&lt;75!!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!E!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -226,7 +226,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Dev.VendorNum</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Dev.VendorNum</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Dev.VendorNum.vi" Type="VI" URL="../Read Dev.VendorNum.vi">
+					<Item Name="Read Dev.VendorNum.vi" Type="VI" URL="../Session Properties/Read Dev.VendorNum.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%M!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!".!"Q!.2'6W,F:F&lt;G2P=EZV&lt;1!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!^44&amp;.$)&amp;*F&lt;7^U:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!Z44&amp;.$)&amp;*F&lt;7^U:3"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!*!!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -242,7 +242,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Dev.CapsVersion</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Dev.CapsVersion</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Dev.CapsVersion.vi" Type="VI" URL="../Read Dev.CapsVersion.vi">
+					<Item Name="Read Dev.CapsVersion.vi" Type="VI" URL="../Session Properties/Read Dev.CapsVersion.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%R!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"B!-0````]02'6W,E.B=(.7:8*T;7^O!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!E!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -256,7 +256,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Dev.Chassis</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Dev.Chassis</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Dev.Chassis.vi" Type="VI" URL="../Read Dev.Chassis.vi">
+					<Item Name="Read Dev.Chassis.vi" Type="VI" URL="../Session Properties/Read Dev.Chassis.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;`!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#I!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!#H.M=W.%:8:J9W5!!$R!=!!6#H.M=W.%:8:J9W5!!!%!"12T&lt;(.D!"5!A!!!!!!"!!1!!!!"!!!!!!!!#U2F&gt;CZ$;'&amp;T=WFT!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"A!(!!1!"!!%!!1!#!!%!!1!#1-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!I!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -270,7 +270,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Dev.SlotNum</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Dev.SlotNum</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Dev.SlotNum.vi" Type="VI" URL="../Read Dev.SlotNum.vi">
+					<Item Name="Read Dev.SlotNum.vi" Type="VI" URL="../Session Properties/Read Dev.SlotNum.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%K!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"&amp;!"Q!,2'6W,F.M&lt;X2/&gt;7U!,E"Q!"Y!!"545UR41S"3:7VP&gt;'5O&lt;(:D&lt;'&amp;T=Q!05UR41S"3:7VP&gt;'5A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!,E"Q!"Y!!"545UR41S"3:7VP&gt;'5O&lt;(:D&lt;'&amp;T=Q!/5UR41S"3:7VP&gt;'5A;7Y!!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!"!!)!Q!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!#3!!!!!!%!#1!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -286,7 +286,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Dev.NVMEM.Areas</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Dev.NVMEM.Areas</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Dev.NVMEM.Areas.vi" Type="VI" URL="../Read Dev.NVMEM.Areas.vi">
+					<Item Name="Read Dev.NVMEM.Areas.vi" Type="VI" URL="../Session Properties/Read Dev.NVMEM.Areas.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'D!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Q!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!$8.M=W./&gt;GVF&lt;5&amp;S:7%!1E"Q!"5.=WRT9UZW&lt;76N18*F91!"!!5%=WRT9Q!6!)!!!!!!!1!%!!!!!1!!!!!!!!^44&amp;.$)%Z7456.)%&amp;S:7%!(%"!!!(`````!!902'6W,EZ7456.,E&amp;S:7&amp;T!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"Q!)!!1!"!!%!!1!#1!%!!1!#A-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!M!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -300,7 +300,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Dev.NVMEM.Size</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Dev.NVMEM.Size</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Dev.NVMEM.Size.vi" Type="VI" URL="../Read Dev.NVMEM.Size.vi">
+					<Item Name="Read Dev.NVMEM.Size.vi" Type="VI" URL="../Session Properties/Read Dev.NVMEM.Size.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%O!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"6!"Q!/2'6W,EZ7456.,F.J?G5!!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!E!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -316,7 +316,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Dev.TCPIP.EthernetIP</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Dev.TCPIP.EthernetIP</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Dev.TCPIP.EthernetIP.vi" Type="VI" URL="../Read Dev.TCPIP.EthernetIP.vi">
+					<Item Name="Read Dev.TCPIP.EthernetIP.vi" Type="VI" URL="../Session Properties/Read Dev.TCPIP.EthernetIP.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%X!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"Z!-0````]52'6W,F2$5%F1,E6U;'6S&lt;G6U36!!!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!E!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -330,7 +330,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Dev.TCPIP.EthernetMAC</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Dev.TCPIP.EthernetMAC</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Dev.TCPIP.EthernetMAC.vi" Type="VI" URL="../Read Dev.TCPIP.EthernetMAC.vi">
+					<Item Name="Read Dev.TCPIP.EthernetMAC.vi" Type="VI" URL="../Session Properties/Read Dev.TCPIP.EthernetMAC.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%X!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"Z!-0````]62'6W,F2$5%F1,E6U;'6S&lt;G6U45&amp;$!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!E!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -344,7 +344,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Dev.TCPIP.Hostname</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Dev.TCPIP.Hostname</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Dev.TCPIP.Hostname.vi" Type="VI" URL="../Read Dev.TCPIP.Hostname.vi">
+					<Item Name="Read Dev.TCPIP.Hostname.vi" Type="VI" URL="../Session Properties/Read Dev.TCPIP.Hostname.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%V!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"R!-0````]32'6W,F2$5%F1,EBP=X2O97VF!!!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!^44&amp;.$)&amp;*F&lt;7^U:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!Z44&amp;.$)&amp;*F&lt;7^U:3"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!*!!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -359,7 +359,7 @@
 				<Property Name="NI.ClassItem.Property.LongName" Type="Str">Dev.Descr</Property>
 				<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Dev.Descr</Property>
 				<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-				<Item Name="Read Dev.Descr.vi" Type="VI" URL="../Read Dev.Descr.vi">
+				<Item Name="Read Dev.Descr.vi" Type="VI" URL="../Session Properties/Read Dev.Descr.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%L!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"*!-0````]*2'6W,E2F=W.S!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!E!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -373,7 +373,7 @@
 				<Property Name="NI.ClassItem.Property.LongName" Type="Str">Dev.PhysChans</Property>
 				<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Dev.PhysChans</Property>
 				<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-				<Item Name="Read Dev.PhysChans.vi" Type="VI" URL="../Read Dev.PhysChans.vi">
+				<Item Name="Read Dev.PhysChans.vi" Type="VI" URL="../Session Properties/Read Dev.PhysChans.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'H!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Q!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!$(.M=W.1;(FT1WBB&lt;A!!3%"Q!"5-=WRT9V"I?8.$;'&amp;O!!!"!!5%=WRT9Q!6!)!!!!!!!1!%!!!!!1!!!!!!!"644&amp;.$)&amp;"I?8.J9W&amp;M)%.I97ZO:7Q!'E"!!!(`````!!9.2'6W,F"I?8.$;'&amp;O=Q!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!^44&amp;.$)&amp;*F&lt;7^U:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!Z44&amp;.$)&amp;*F&lt;7^U:3"J&lt;A!!6!$Q!!Q!!Q!%!!=!#!!%!!1!"!!%!!E!"!!%!!I$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!,!!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -387,7 +387,7 @@
 				<Property Name="NI.ClassItem.Property.LongName" Type="Str">ActiveDevice</Property>
 				<Property Name="NI.ClassItem.Property.ShortName" Type="Str">ActiveDevice</Property>
 				<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-				<Item Name="Write ActiveDevice.vi" Type="VI" URL="../Write ActiveDevice.vi">
+				<Item Name="Write ActiveDevice.vi" Type="VI" URL="../Session Properties/Write ActiveDevice.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'"!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#I!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!#H.M=W.%:8:J9W5!!$Z!=!!6#H.M=W.%:8:J9W5!!!%!"Q2T&lt;(.D!"5!A!!!!!!"!!1!!!!"!!!!!!!!$%&amp;D&gt;'FW:52F&gt;GFD:1!!,E"Q!"Y!!"545UR41S"3:7VP&gt;'5O&lt;(:D&lt;'&amp;T=Q!/5UR41S"3:7VP&gt;'5A;7Y!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!#!!*!Q!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!"!!!!#3!!!!!!%!#A!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -403,7 +403,7 @@
 				<Property Name="NI.ClassItem.Property.LongName" Type="Str">ActiveNVMEMArea</Property>
 				<Property Name="NI.ClassItem.Property.ShortName" Type="Str">ActiveNVMEMArea</Property>
 				<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-				<Item Name="Write ActiveNVMEMArea.vi" Type="VI" URL="../Write ActiveNVMEMArea.vi">
+				<Item Name="Write ActiveNVMEMArea.vi" Type="VI" URL="../Session Properties/Write ActiveNVMEMArea.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'(!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Q!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!$8.M=W./&gt;GVF&lt;5&amp;S:7%!1E"Q!"5.=WRT9UZW&lt;76N18*F91!"!!=%=WRT9Q!6!)!!!!!!!1!%!!!!!1!!!!!!!!^"9X2J&gt;G6/6EV&amp;45&amp;S:7%!,E"Q!"Y!!"545UR41S"3:7VP&gt;'5O&lt;(:D&lt;'&amp;T=Q!/5UR41S"3:7VP&gt;'5A;7Y!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!#!!*!Q!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!"!!!!#3!!!!!!%!#A!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -417,7 +417,7 @@
 				<Property Name="NI.ClassItem.Property.LongName" Type="Str">NVMEMArea.Descr</Property>
 				<Property Name="NI.ClassItem.Property.ShortName" Type="Str">NVMEMArea.Descr</Property>
 				<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-				<Item Name="Read NVMEMArea.Descr.vi" Type="VI" URL="../Read NVMEMArea.Descr.vi">
+				<Item Name="Read NVMEMArea.Descr.vi" Type="VI" URL="../Session Properties/Read NVMEMArea.Descr.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%R!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"B!-0````]04F:.25V"=G6B,E2F=W.S!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!E!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -431,7 +431,7 @@
 				<Property Name="NI.ClassItem.Property.LongName" Type="Str">NVMEMArea.PendingChanges</Property>
 				<Property Name="NI.ClassItem.Property.ShortName" Type="Str">NVMEMArea.PendingChanges</Property>
 				<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-				<Item Name="Read NVMEMArea.PendingChanges.vi" Type="VI" URL="../Read NVMEMArea.PendingChanges.vi">
+				<Item Name="Read NVMEMArea.PendingChanges.vi" Type="VI" URL="../Session Properties/Read NVMEMArea.PendingChanges.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%X!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"Z!)2B/6EV&amp;45&amp;S:7%O5'6O:'FO:U.I97ZH:8-!!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!E!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -445,7 +445,7 @@
 				<Property Name="NI.ClassItem.Property.LongName" Type="Str">NVMEMArea.Size</Property>
 				<Property Name="NI.ClassItem.Property.ShortName" Type="Str">NVMEMArea.Size</Property>
 				<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-				<Item Name="Read NVMEMArea.Size.vi" Type="VI" URL="../Read NVMEMArea.Size.vi">
+				<Item Name="Read NVMEMArea.Size.vi" Type="VI" URL="../Session Properties/Read NVMEMArea.Size.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%O!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"6!"Q!/4F:.25V"=G6B,F.J?G5!!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!E!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -462,7 +462,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">PhysChan.Commands</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">PhysChan.Commands</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read PhysChan.Commands.vi" Type="VI" URL="../Read PhysChan.Commands.vi">
+					<Item Name="Read PhysChan.Commands.vi" Type="VI" URL="../Session Properties/Read PhysChan.Commands.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'@!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#I!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!#X.M=W.$&lt;WVN97ZE!$Z!=!!6#X.M=W.$&lt;WVN97ZE!!%!"12T&lt;(.D!"5!A!!!!!!"!!1!!!!"!!!!!!!!$&amp;.-5U-A1W^N&lt;7&amp;O:!!!(E"!!!(`````!!925'BZ=U.I97YO1W^N&lt;7&amp;O:(-!,E"Q!"Y!!"545UR41S"3:7VP&gt;'5O&lt;(:D&lt;'&amp;T=Q!05UR41S"3:7VP&gt;'5A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!,E"Q!"Y!!"545UR41S"3:7VP&gt;'5O&lt;(:D&lt;'&amp;T=Q!/5UR41S"3:7VP&gt;'5A;7Y!!&amp;1!]!!-!!-!"!!(!!A!"!!%!!1!"!!*!!1!"!!+!Q!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!#3!!!!!!%!#Q!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -476,7 +476,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">PhysChan.Properties</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">PhysChan.Properties</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read PhysChan.Properties.vi" Type="VI" URL="../Read PhysChan.Properties.vi">
+					<Item Name="Read PhysChan.Properties.vi" Type="VI" URL="../Session Properties/Read PhysChan.Properties.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'F!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Q!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!$(.M=W.1=G^Q:8*U?1!!1%"Q!"5-=WRT9V"S&lt;X"F=H2Z!!!"!!5%=WRT9Q!6!)!!!!!!!1!%!!!!!1!!!!!!!!V44&amp;.$)&amp;"S&lt;X"F=H2Z!#"!1!!"`````Q!'%V"I?8.$;'&amp;O,F"S&lt;X"F=H2J:8-!,E"Q!"Y!!"545UR41S"3:7VP&gt;'5O&lt;(:D&lt;'&amp;T=Q!05UR41S"3:7VP&gt;'5A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!,E"Q!"Y!!"545UR41S"3:7VP&gt;'5O&lt;(:D&lt;'&amp;T=Q!/5UR41S"3:7VP&gt;'5A;7Y!!&amp;1!]!!-!!-!"!!(!!A!"!!%!!1!"!!*!!1!"!!+!Q!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!#3!!!!!!%!#Q!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -491,7 +491,7 @@
 				<Property Name="NI.ClassItem.Property.LongName" Type="Str">ActivePhysChan</Property>
 				<Property Name="NI.ClassItem.Property.ShortName" Type="Str">ActivePhysChan</Property>
 				<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-				<Item Name="Write ActivePhysChan.vi" Type="VI" URL="../Write ActivePhysChan.vi">
+				<Item Name="Write ActivePhysChan.vi" Type="VI" URL="../Session Properties/Write ActivePhysChan.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'(!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Q!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!$(.M=W.1;(FT1WBB&lt;A!!1E"Q!"5-=WRT9V"I?8.$;'&amp;O!!!"!!=%=WRT9Q!6!)!!!!!!!1!%!!!!!1!!!!!!!!Z"9X2J&gt;G61;(FT1WBB&lt;A!!,E"Q!"Y!!"545UR41S"3:7VP&gt;'5O&lt;(:D&lt;'&amp;T=Q!/5UR41S"3:7VP&gt;'5A;7Y!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!#!!*!Q!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!"!!!!#3!!!!!!%!#A!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -505,7 +505,7 @@
 				<Property Name="NI.ClassItem.Property.LongName" Type="Str">PhysChan.Descr</Property>
 				<Property Name="NI.ClassItem.Property.ShortName" Type="Str">PhysChan.Descr</Property>
 				<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-				<Item Name="Read PhysChan.Descr.vi" Type="VI" URL="../Read PhysChan.Descr.vi">
+				<Item Name="Read PhysChan.Descr.vi" Type="VI" URL="../Session Properties/Read PhysChan.Descr.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%R!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"B!-0````]/5'BZ=U.I97YO2'6T9X)!!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!E!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -522,7 +522,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Session.TCPIP.ConnectTimeout</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Session.TCPIP.ConnectTimeout</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Session.TCPIP.ConnectTimeout.vi" Type="VI" URL="../Read Session.TCPIP.ConnectTimeout.vi">
+					<Item Name="Read Session.TCPIP.ConnectTimeout.vi" Type="VI" URL="../Session Properties/Read Session.TCPIP.ConnectTimeout.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%]!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#.!#A!=5W6T=WFP&lt;CZ51V"*5#Z$&lt;WZO:7.U6'FN:7^V&gt;!!!,E"Q!"Y!!"545UR41S"3:7VP&gt;'5O&lt;(:D&lt;'&amp;T=Q!05UR41S"3:7VP&gt;'5A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!,E"Q!"Y!!"545UR41S"3:7VP&gt;'5O&lt;(:D&lt;'&amp;T=Q!/5UR41S"3:7VP&gt;'5A;7Y!!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!"!!)!Q!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!#3!!!!!!%!#1!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -531,7 +531,7 @@
 						<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 						<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 					</Item>
-					<Item Name="Write Session.TCPIP.ConnectTimeout.vi" Type="VI" URL="../Write Session.TCPIP.ConnectTimeout.vi">
+					<Item Name="Write Session.TCPIP.ConnectTimeout.vi" Type="VI" URL="../Session Properties/Write Session.TCPIP.ConnectTimeout.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%]!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#.!#A!=5W6T=WFP&lt;CZ51V"*5#Z$&lt;WZO:7.U6'FN:7^V&gt;!!!,E"Q!"Y!!"545UR41S"3:7VP&gt;'5O&lt;(:D&lt;'&amp;T=Q!/5UR41S"3:7VP&gt;'5A;7Y!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"Q!)!Q!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!"!!!!#3!!!!!!%!#1!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -545,7 +545,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Session.TCPIP.ConnectTimeoutPerIP</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Session.TCPIP.ConnectTimeoutPerIP</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Session.TCPIP.ConnectTimeoutPerIP.vi" Type="VI" URL="../Read Session.TCPIP.ConnectTimeoutPerIP.vi">
+					<Item Name="Read Session.TCPIP.ConnectTimeoutPerIP.vi" Type="VI" URL="../Session Properties/Read Session.TCPIP.ConnectTimeoutPerIP.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;!!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#&gt;!#A!B5W6T=WFP&lt;CZ51V"*5#Z$&lt;WZO:7.U6'FN:7^V&gt;&amp;"F=EF1!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!E!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -554,7 +554,7 @@
 						<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 						<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 					</Item>
-					<Item Name="Write Session.TCPIP.ConnectTimeoutPerIP.vi" Type="VI" URL="../Write Session.TCPIP.ConnectTimeoutPerIP.vi">
+					<Item Name="Write Session.TCPIP.ConnectTimeoutPerIP.vi" Type="VI" URL="../Session Properties/Write Session.TCPIP.ConnectTimeoutPerIP.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;!!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#&gt;!#A!B5W6T=WFP&lt;CZ51V"*5#Z$&lt;WZO:7.U6'FN:7^V&gt;&amp;"F=EF1!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!-!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!1!!!!EA!!!!!"!!E!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -568,7 +568,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Session.TCPIP.KeepAliveInterval</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Session.TCPIP.KeepAliveInterval</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Session.TCPIP.KeepAliveInterval.vi" Type="VI" URL="../Read Session.TCPIP.KeepAliveInterval.vi">
+					<Item Name="Read Session.TCPIP.KeepAliveInterval.vi" Type="VI" URL="../Session Properties/Read Session.TCPIP.KeepAliveInterval.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%_!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#6!#A!@5W6T=WFP&lt;CZ51V"*5#Z,:76Q17RJ&gt;G6*&lt;H2F=H:B&lt;!!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!^44&amp;.$)&amp;*F&lt;7^U:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!Z44&amp;.$)&amp;*F&lt;7^U:3"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!*!!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -577,7 +577,7 @@
 						<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 						<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 					</Item>
-					<Item Name="Write Session.TCPIP.KeepAliveInterval.vi" Type="VI" URL="../Write Session.TCPIP.KeepAliveInterval.vi">
+					<Item Name="Write Session.TCPIP.KeepAliveInterval.vi" Type="VI" URL="../Session Properties/Write Session.TCPIP.KeepAliveInterval.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%_!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#6!#A!@5W6T=WFP&lt;CZ51V"*5#Z,:76Q17RJ&gt;G6*&lt;H2F=H:B&lt;!!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!Z44&amp;.$)&amp;*F&lt;7^U:3"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!A$!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%!!!!*)!!!!!!1!*!!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -591,7 +591,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Session.TCPIP.KeepAliveTimeout</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Session.TCPIP.KeepAliveTimeout</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Session.TCPIP.KeepAliveTimeout.vi" Type="VI" URL="../Read Session.TCPIP.KeepAliveTimeout.vi">
+					<Item Name="Read Session.TCPIP.KeepAliveTimeout.vi" Type="VI" URL="../Session Properties/Read Session.TCPIP.KeepAliveTimeout.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%_!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#6!#A!?5W6T=WFP&lt;CZ51V"*5#Z,:76Q17RJ&gt;G65;7VF&lt;X6U!!!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!^44&amp;.$)&amp;*F&lt;7^U:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!Z44&amp;.$)&amp;*F&lt;7^U:3"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!*!!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -600,7 +600,7 @@
 						<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 						<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 					</Item>
-					<Item Name="Write Session.TCPIP.KeepAliveTimeout.vi" Type="VI" URL="../Write Session.TCPIP.KeepAliveTimeout.vi">
+					<Item Name="Write Session.TCPIP.KeepAliveTimeout.vi" Type="VI" URL="../Session Properties/Write Session.TCPIP.KeepAliveTimeout.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%_!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#6!#A!?5W6T=WFP&lt;CZ51V"*5#Z,:76Q17RJ&gt;G65;7VF&lt;X6U!!!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!Z44&amp;.$)&amp;*F&lt;7^U:3"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!A$!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%!!!!*)!!!!!!1!*!!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -614,7 +614,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Session.TCPIP.MDNSBrowseTimeout</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Session.TCPIP.MDNSBrowseTimeout</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Session.TCPIP.MDNSBrowseTimeout.vi" Type="VI" URL="../Read Session.TCPIP.MDNSBrowseTimeout.vi">
+					<Item Name="Read Session.TCPIP.MDNSBrowseTimeout.vi" Type="VI" URL="../Session Properties/Read Session.TCPIP.MDNSBrowseTimeout.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%_!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#6!#A!@5W6T=WFP&lt;CZ51V"*5#Z.2%Z41H*P&gt;X.F6'FN:7^V&gt;!!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!^44&amp;.$)&amp;*F&lt;7^U:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!Z44&amp;.$)&amp;*F&lt;7^U:3"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!*!!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -623,7 +623,7 @@
 						<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 						<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 					</Item>
-					<Item Name="Write Session.TCPIP.MDNSBrowseTimeout.vi" Type="VI" URL="../Write Session.TCPIP.MDNSBrowseTimeout.vi">
+					<Item Name="Write Session.TCPIP.MDNSBrowseTimeout.vi" Type="VI" URL="../Session Properties/Write Session.TCPIP.MDNSBrowseTimeout.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%_!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#6!#A!@5W6T=WFP&lt;CZ51V"*5#Z.2%Z41H*P&gt;X.F6'FN:7^V&gt;!!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!Z44&amp;.$)&amp;*F&lt;7^U:3"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!A$!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%!!!!*)!!!!!!1!*!!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -637,7 +637,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Session.TCPIP.SendRecvTimeout</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Session.TCPIP.SendRecvTimeout</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Session.TCPIP.SendRecvTimeout.vi" Type="VI" URL="../Read Session.TCPIP.SendRecvTimeout.vi">
+					<Item Name="Read Session.TCPIP.SendRecvTimeout.vi" Type="VI" URL="../Session Properties/Read Session.TCPIP.SendRecvTimeout.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%]!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#.!#A!&gt;5W6T=WFP&lt;CZ51V"*5#Z4:7ZE5G6D&gt;F2J&lt;76P&gt;81!,E"Q!"Y!!"545UR41S"3:7VP&gt;'5O&lt;(:D&lt;'&amp;T=Q!05UR41S"3:7VP&gt;'5A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!,E"Q!"Y!!"545UR41S"3:7VP&gt;'5O&lt;(:D&lt;'&amp;T=Q!/5UR41S"3:7VP&gt;'5A;7Y!!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!"!!)!Q!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!#3!!!!!!%!#1!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -646,7 +646,7 @@
 						<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 						<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 					</Item>
-					<Item Name="Write Session.TCPIP.SendRecvTimeout.vi" Type="VI" URL="../Write Session.TCPIP.SendRecvTimeout.vi">
+					<Item Name="Write Session.TCPIP.SendRecvTimeout.vi" Type="VI" URL="../Session Properties/Write Session.TCPIP.SendRecvTimeout.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%]!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#.!#A!&gt;5W6T=WFP&lt;CZ51V"*5#Z4:7ZE5G6D&gt;F2J&lt;76P&gt;81!,E"Q!"Y!!"545UR41S"3:7VP&gt;'5O&lt;(:D&lt;'&amp;T=Q!/5UR41S"3:7VP&gt;'5A;7Y!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"Q!)!Q!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!"!!!!#3!!!!!!%!#1!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -661,7 +661,7 @@
 				<Property Name="NI.ClassItem.Property.LongName" Type="Str">Session.ConnectedDevices</Property>
 				<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Session.ConnectedDevices</Property>
 				<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-				<Item Name="Read Session.ConnectedDevices.vi" Type="VI" URL="../Read Session.ConnectedDevices.vi">
+				<Item Name="Read Session.ConnectedDevices.vi" Type="VI" URL="../Session Properties/Read Session.ConnectedDevices.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'F!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#I!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!#H.M=W.%:8:J9W5!!$R!=!!6#H.M=W.%:8:J9W5!!!%!"12T&lt;(.D!"5!A!!!!!!"!!1!!!!"!!!!!!!!#V.-5U-A2'6W;7.F!#:!1!!"`````Q!''&amp;.F=X.J&lt;WYO1W^O&lt;G6D&gt;'6E2'6W;7.F=Q!!,E"Q!"Y!!"545UR41S"3:7VP&gt;'5O&lt;(:D&lt;'&amp;T=Q!05UR41S"3:7VP&gt;'5A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!,E"Q!"Y!!"545UR41S"3:7VP&gt;'5O&lt;(:D&lt;'&amp;T=Q!/5UR41S"3:7VP&gt;'5A;7Y!!&amp;1!]!!-!!-!"!!(!!A!"!!%!!1!"!!*!!1!"!!+!Q!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!#3!!!!!!%!#Q!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -675,7 +675,7 @@
 				<Property Name="NI.ClassItem.Property.LongName" Type="Str">Session.DefaultDevices</Property>
 				<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Session.DefaultDevices</Property>
 				<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-				<Item Name="Read Session.DefaultDevices.vi" Type="VI" URL="../Read Session.DefaultDevices.vi">
+				<Item Name="Read Session.DefaultDevices.vi" Type="VI" URL="../Session Properties/Read Session.DefaultDevices.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'D!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#I!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!#H.M=W.%:8:J9W5!!$R!=!!6#H.M=W.%:8:J9W5!!!%!"12T&lt;(.D!"5!A!!!!!!"!!1!!!!"!!!!!!!!#V.-5U-A2'6W;7.F!#2!1!!"`````Q!'&amp;F.F=X.J&lt;WYO2'6G986M&gt;%2F&gt;GFD:8-!!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"Q!)!!1!"!!%!!1!#1!%!!1!#A-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!M!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -689,7 +689,7 @@
 				<Property Name="NI.ClassItem.Property.LongName" Type="Str">Session.DefaultNVMEMAreas</Property>
 				<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Session.DefaultNVMEMAreas</Property>
 				<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-				<Item Name="Read Session.DefaultNVMEMAreas.vi" Type="VI" URL="../Read Session.DefaultNVMEMAreas.vi">
+				<Item Name="Read Session.DefaultNVMEMAreas.vi" Type="VI" URL="../Session Properties/Read Session.DefaultNVMEMAreas.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'N!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Q!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!$8.M=W./&gt;GVF&lt;5&amp;S:7%!1E"Q!"5.=WRT9UZW&lt;76N18*F91!"!!5%=WRT9Q!6!)!!!!!!!1!%!!!!!1!!!!!!!!^44&amp;.$)%Z7456.)%&amp;S:7%!*E"!!!(`````!!9:5W6T=WFP&lt;CZ%:7:B&gt;7RU4F:.25V"=G6B=Q!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!^44&amp;.$)&amp;*F&lt;7^U:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!Z44&amp;.$)&amp;*F&lt;7^U:3"J&lt;A!!6!$Q!!Q!!Q!%!!=!#!!%!!1!"!!%!!E!"!!%!!I$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!,!!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -703,7 +703,7 @@
 				<Property Name="NI.ClassItem.Property.LongName" Type="Str">Session.DefaultPhysChans</Property>
 				<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Session.DefaultPhysChans</Property>
 				<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-				<Item Name="Read Session.DefaultPhysChans.vi" Type="VI" URL="../Read Session.DefaultPhysChans.vi">
+				<Item Name="Read Session.DefaultPhysChans.vi" Type="VI" URL="../Session Properties/Read Session.DefaultPhysChans.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'T!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Q!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!$(.M=W.1;(FT1WBB&lt;A!!3%"Q!"5-=WRT9V"I?8.$;'&amp;O!!!"!!5%=WRT9Q!6!)!!!!!!!1!%!!!!!1!!!!!!!"644&amp;.$)&amp;"I?8.J9W&amp;M)%.I97ZO:7Q!*E"!!!(`````!!995W6T=WFP&lt;CZ%:7:B&gt;7RU5'BZ=U.I97ZT!!!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!^44&amp;.$)&amp;*F&lt;7^U:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!Z44&amp;.$)&amp;*F&lt;7^U:3"J&lt;A!!6!$Q!!Q!!Q!%!!=!#!!%!!1!"!!%!!E!"!!%!!I$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!,!!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -717,7 +717,7 @@
 				<Property Name="NI.ClassItem.Property.LongName" Type="Str">Session.ReservedDevices</Property>
 				<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Session.ReservedDevices</Property>
 				<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-				<Item Name="Read Session.ReservedDevices.vi" Type="VI" URL="../Read Session.ReservedDevices.vi">
+				<Item Name="Read Session.ReservedDevices.vi" Type="VI" URL="../Session Properties/Read Session.ReservedDevices.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'D!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#I!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!#H.M=W.%:8:J9W5!!$R!=!!6#H.M=W.%:8:J9W5!!!%!"12T&lt;(.D!"5!A!!!!!!"!!1!!!!"!!!!!!!!#V.-5U-A2'6W;7.F!#2!1!!"`````Q!'&amp;V.F=X.J&lt;WYO5G6T:8*W:72%:8:J9W6T!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"Q!)!!1!"!!%!!1!#1!%!!1!#A-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!M!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -734,7 +734,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Sys.DeviceProperties</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Sys.DeviceProperties</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Sys.DeviceProperties.vi" Type="VI" URL="../Read Sys.DeviceProperties.vi">
+					<Item Name="Read Sys.DeviceProperties.vi" Type="VI" URL="../Session Properties/Read Sys.DeviceProperties.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'H!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Q!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!$(.M=W.1=G^Q:8*U?1!!1%"Q!"5-=WRT9V"S&lt;X"F=H2Z!!!"!!5%=WRT9Q!6!)!!!!!!!1!%!!!!!1!!!!!!!!V44&amp;.$)&amp;"S&lt;X"F=H2Z!#*!1!!"`````Q!'&amp;&amp;.Z=SZ%:8:J9W61=G^Q:8*U;76T!!!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!^44&amp;.$)&amp;*F&lt;7^U:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!Z44&amp;.$)&amp;*F&lt;7^U:3"J&lt;A!!6!$Q!!Q!!Q!%!!=!#!!%!!1!"!!%!!E!"!!%!!I$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!,!!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -762,7 +762,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Sys.PhysChanProperties</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Sys.PhysChanProperties</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Sys.PhysChanProperties.vi" Type="VI" URL="../Read Sys.PhysChanProperties.vi">
+					<Item Name="Read Sys.PhysChanProperties.vi" Type="VI" URL="../Session Properties/Read Sys.PhysChanProperties.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'J!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Q!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!$(.M=W.1=G^Q:8*U?1!!1%"Q!"5-=WRT9V"S&lt;X"F=H2Z!!!"!!5%=WRT9Q!6!)!!!!!!!1!%!!!!!1!!!!!!!!V44&amp;.$)&amp;"S&lt;X"F=H2Z!#2!1!!"`````Q!'&amp;F.Z=SZ1;(FT1WBB&lt;F"S&lt;X"F=H2J:8-!!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"Q!)!!1!"!!%!!1!#1!%!!1!#A-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!M!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -776,7 +776,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Sys.SessionProperties</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Sys.SessionProperties</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Sys.SessionProperties.vi" Type="VI" URL="../Read Sys.SessionProperties.vi">
+					<Item Name="Read Sys.SessionProperties.vi" Type="VI" URL="../Session Properties/Read Sys.SessionProperties.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'H!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Q!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!$(.M=W.1=G^Q:8*U?1!!1%"Q!"5-=WRT9V"S&lt;X"F=H2Z!!!"!!5%=WRT9Q!6!)!!!!!!!1!%!!!!!1!!!!!!!!V44&amp;.$)&amp;"S&lt;X"F=H2Z!#*!1!!"`````Q!'&amp;6.Z=SZ4:8.T;7^O5(*P='6S&gt;'FF=Q!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!^44&amp;.$)&amp;*F&lt;7^U:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!Z44&amp;.$)&amp;*F&lt;7^U:3"J&lt;A!!6!$Q!!Q!!Q!%!!=!#!!%!!1!"!!%!!E!"!!%!!I$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!,!!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -790,7 +790,7 @@
 					<Property Name="NI.ClassItem.Property.LongName" Type="Str">Sys.SystemProperties</Property>
 					<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Sys.SystemProperties</Property>
 					<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-					<Item Name="Read Sys.SystemProperties.vi" Type="VI" URL="../Read Sys.SystemProperties.vi">
+					<Item Name="Read Sys.SystemProperties.vi" Type="VI" URL="../Session Properties/Read Sys.SystemProperties.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'H!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Q!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!$(.M=W.1=G^Q:8*U?1!!1%"Q!"5-=WRT9V"S&lt;X"F=H2Z!!!"!!5%=WRT9Q!6!)!!!!!!!1!%!!!!!1!!!!!!!!V44&amp;.$)&amp;"S&lt;X"F=H2Z!#*!1!!"`````Q!'&amp;&amp;.Z=SZ4?8.U:7V1=G^Q:8*U;76T!!!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!^44&amp;.$)&amp;*F&lt;7^U:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!O1(!!(A!!&amp;2.44&amp;.$)&amp;*F&lt;7^U:3ZM&gt;G.M98.T!!Z44&amp;.$)&amp;*F&lt;7^U:3"J&lt;A!!6!$Q!!Q!!Q!%!!=!#!!%!!1!"!!%!!E!"!!%!!I$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!,!!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -805,7 +805,7 @@
 				<Property Name="NI.ClassItem.Property.LongName" Type="Str">Sys.Chassis</Property>
 				<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Sys.Chassis</Property>
 				<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-				<Item Name="Read Sys.Chassis.vi" Type="VI" URL="../Read Sys.Chassis.vi">
+				<Item Name="Read Sys.Chassis.vi" Type="VI" URL="../Session Properties/Read Sys.Chassis.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'8!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#I!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!#H.M=W.%:8:J9W5!!$R!=!!6#H.M=W.%:8:J9W5!!!%!"12T&lt;(.D!"5!A!!!!!!"!!1!!!!"!!!!!!!!#V.-5U-A2'6W;7.F!"B!1!!"`````Q!'#V.Z=SZ$;'&amp;T=WFT!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"Q!)!!1!"!!%!!1!#1!%!!1!#A-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!M!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -819,7 +819,7 @@
 				<Property Name="NI.ClassItem.Property.LongName" Type="Str">Sys.ConfigChangeCount</Property>
 				<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Sys.ConfigChangeCount</Property>
 				<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-				<Item Name="Read Sys.ConfigChangeCount.vi" Type="VI" URL="../Read Sys.ConfigChangeCount.vi">
+				<Item Name="Read Sys.ConfigChangeCount.vi" Type="VI" URL="../Session Properties/Read Sys.ConfigChangeCount.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%U!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"N!#!!65XFT,E.P&lt;G:J:U.I97ZH:5.P&gt;7ZU!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!E!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -833,7 +833,7 @@
 				<Property Name="NI.ClassItem.Property.LongName" Type="Str">Sys.Devices</Property>
 				<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Sys.Devices</Property>
 				<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-				<Item Name="Read Sys.Devices.vi" Type="VI" URL="../Read Sys.Devices.vi">
+				<Item Name="Read Sys.Devices.vi" Type="VI" URL="../Session Properties/Read Sys.Devices.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'8!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#I!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!#H.M=W.%:8:J9W5!!$R!=!!6#H.M=W.%:8:J9W5!!!%!"12T&lt;(.D!"5!A!!!!!!"!!1!!!!"!!!!!!!!#V.-5U-A2'6W;7.F!"B!1!!"`````Q!'#V.Z=SZ%:8:J9W6T!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"Q!)!!1!"!!%!!1!#1!%!!1!#A-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!M!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -847,7 +847,7 @@
 				<Property Name="NI.ClassItem.Property.LongName" Type="Str">Sys.Modules</Property>
 				<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Sys.Modules</Property>
 				<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-				<Item Name="Read Sys.Modules.vi" Type="VI" URL="../Read Sys.Modules.vi">
+				<Item Name="Read Sys.Modules.vi" Type="VI" URL="../Session Properties/Read Sys.Modules.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'8!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#I!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!#H.M=W.%:8:J9W5!!$R!=!!6#H.M=W.%:8:J9W5!!!%!"12T&lt;(.D!"5!A!!!!!!"!!1!!!!"!!!!!!!!#V.-5U-A2'6W;7.F!"B!1!!"`````Q!'#V.Z=SZ.&lt;W2V&lt;'6T!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$V.-5U-A5G6N&lt;X2F)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5G6N&lt;X2F,GRW9WRB=X-!$F.-5U-A5G6N&lt;X2F)'FO!!"5!0!!$!!$!!1!"Q!)!!1!"!!%!!1!#1!%!!1!#A-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!M!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
