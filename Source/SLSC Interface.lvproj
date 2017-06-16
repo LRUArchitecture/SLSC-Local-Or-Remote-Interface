@@ -11,6 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Property Scripter" Type="Folder">
+			<Item Name="Get Project Item Reference.vi" Type="VI" URL="../SLSC Interface Class/Property Node to Poly scripter/Get Project Item Reference.vi"/>
 			<Item Name="Get Property Node.vi" Type="VI" URL="../SLSC Interface Class/Property Node to Poly scripter/Get Property Node.vi"/>
 			<Item Name="PN to poly scripter.vi" Type="VI" URL="../SLSC Interface Class/Property Node to Poly scripter/PN to poly scripter.vi"/>
 			<Item Name="Property Node Type.vi" Type="VI" URL="../SLSC Interface Class/Property Node to Poly scripter/Property Node Type.vi"/>
