@@ -10,9 +10,15 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Property Scripter" Type="Folder">
+			<Item Name="Get Property Node.vi" Type="VI" URL="../SLSC Interface Class/Property Node to Poly scripter/Get Property Node.vi"/>
+			<Item Name="PN to poly scripter.vi" Type="VI" URL="../SLSC Interface Class/Property Node to Poly scripter/PN to poly scripter.vi"/>
+			<Item Name="Property Node Type.vi" Type="VI" URL="../SLSC Interface Class/Property Node to Poly scripter/Property Node Type.vi"/>
+		</Item>
 		<Item Name="API Reference.vi" Type="VI" URL="../SLSC Interface Class/API Reference.vi">
 			<Property Name="marked" Type="Int">0</Property>
 		</Item>
+		<Item Name="Create VIs.vi" Type="VI" URL="../SLSC Interface Class/Property Node to Poly scripter/Create VIs.vi"/>
 		<Item Name="SLSC Interface.lvclass" Type="LVClass" URL="../SLSC Interface Class/SLSC Interface.lvclass"/>
 		<Item Name="SLSC Local.lvclass" Type="LVClass" URL="../SLSC Local Interface Class/SLSC Local.lvclass"/>
 		<Item Name="SLSC Remote.lvclass" Type="LVClass" URL="../SLSC Remote Interface Class/SLSC Remote.lvclass"/>
@@ -36,6 +42,7 @@
 				<Item Name="Response.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NI JSONRPC Server Framework/Classes/Response/Response.lvclass"/>
 				<Item Name="result.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NI JSONRPC Server Framework/Classes/New folder/result.lvclass"/>
 				<Item Name="SLSC.lvlib" Type="Library" URL="/&lt;vilib&gt;/SLSC/SLSC.lvlib"/>
+				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
