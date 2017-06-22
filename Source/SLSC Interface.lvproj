@@ -17,6 +17,7 @@
 		<Item Name="SLSC Interface.lvclass" Type="LVClass" URL="../SLSC Interface Class/SLSC Interface.lvclass"/>
 		<Item Name="SLSC Local.lvclass" Type="LVClass" URL="../SLSC Local Interface Class/SLSC Local.lvclass"/>
 		<Item Name="SLSC Remote.lvclass" Type="LVClass" URL="../SLSC Remote Interface Class/SLSC Remote.lvclass"/>
+		<Item Name="Test (API Reflection).vi" Type="VI" URL="../Test (API Reflection).vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
