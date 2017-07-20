@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-06-23 09:18:59" Modified_Date="2017-06-23 13:54:46" Creator="Tanner Blair" Comments="" ID="27a042299b80b549fc6e70f966d81a27">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-06-23 09:18:59" Modified_Date="2017-07-10 12:48:10" Creator="Tanner Blair" Comments="" ID="bb0b2f79eb3d56cd8c4bc59ee8116bf3">
   <Library_General_Settings>
     <Package_File_Name>National_Instruments_lib_SLSC_Local_or_Remote_Interface</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
-    <Library_Output_Folder>..\Builds\SLSC-Interface</Library_Output_Folder>
+    <Library_Output_Folder>..\Builds\SLSC-Interface\Builds</Library_Output_Folder>
     <Company_Name>National Instruments</Company_Name>
     <Library_Summary/>
     <Library_License/>
@@ -88,6 +88,11 @@
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
         <Path/>
       </Project_Provider>
+      <QuickDrop_Plugins>
+        <LLB>false</LLB>
+        <Preserve_Hierarchy>true</Preserve_Hierarchy>
+        <Path/>
+      </QuickDrop_Plugins>
     </Destinations>
     <Source_Files>
       <Destination_Overrides>
@@ -438,7 +443,7 @@
         <Path/>
         <VI_Title/>
       </Items_Data>
-      <GUID>1869F8F3156EDE74EB93D7D71BAF3C40</GUID>
+      <GUID>6C7AACF83988FF2A80CEE387CCEF6B96</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -529,7 +534,7 @@
         <Path>Source\SLSC Interface Class\Abort Session.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>86C0C5A65D24105C156C26726812716E</GUID>
+      <GUID>6D2D4398B5D64C2E97D74DF9DA49EE2C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -606,7 +611,7 @@
         <Path/>
         <VI_Title/>
       </Items_Data>
-      <GUID>98E9637073CDB6D05310465CAE0D09CF</GUID>
+      <GUID>5DF9CEF7CCF438A959A5AA3C7B61C95B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -655,7 +660,7 @@
         <Path>Source\SLSC Interface Class\Register Access\Write Register.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D48C4EA1EF6FA706243E3A942AAA0B02</GUID>
+      <GUID>705755EF55D8C3CE40F4AEF38FEE9D99</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -774,7 +779,7 @@
         <Path>Source\SLSC Interface Class\System Configuration\Log Out.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>485BDEE673A79FDA6B2BEE5592D1C269</GUID>
+      <GUID>234F9BE4F943BA16E06ABE75E0DDE4B0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -921,7 +926,7 @@
         <Path>Source\SLSC Interface Class\System Configuration\System PN\Get System Properties List.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E922D17BCBCCEBFD1A36E89F589425DE</GUID>
+      <GUID>1B110DCD48B76B2190F96DECF675841A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1026,7 +1031,7 @@
         <Path>Source\SLSC Interface Class\API Reflection\Close Property.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>975C60DD12D1E395976ED6A59C23946E</GUID>
+      <GUID>42F330BA052287F29790A741D2498C57</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1075,7 +1080,7 @@
         <Path>Source\SLSC Interface Class\API Reflection\Get Command Documentation.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>87B80C8C085B200B53467731AE4196B9</GUID>
+      <GUID>2D41FFAA48F5AA0A7F1E62E27525D5F7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1208,7 +1213,7 @@
         <Path>Source\SLSC Interface Class\API Reflection\Property is Enum.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3060C02848CDF3FA7D53B5A67F98512E</GUID>
+      <GUID>CAC042A5D1DDC4FC0531BE1630BB0983</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1299,7 +1304,7 @@
         <Path>Source\Generic API Reflection</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>949B60A0A04A117149C61981A8C0FBD8</GUID>
+      <GUID>13E17FABEC1C80B3BB5F098908DF268F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>9</Parent_Palette_Index>
@@ -1404,7 +1409,7 @@
         <Path>Source\Property Properties</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B52476859EF53A1D2209E5130AB20D9E</GUID>
+      <GUID>EB424273534233E8B85A35F1E8EEC1D6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>10</Parent_Palette_Index>
@@ -1453,7 +1458,7 @@
         <Path>Source\SLSC Interface Class\API Reflection\Get Command Documentation.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C704F9EAB26E0B9F6215F46005A071D9</GUID>
+      <GUID>3C4BE8A5C09A2A53AE44B49C384766FD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>10</Parent_Palette_Index>
@@ -1586,7 +1591,7 @@
         <Path>Source\SLSC Interface Class\API Reflection\Property is Enum.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F6205430AF05D259FAA96CF43E9BDCB3</GUID>
+      <GUID>3D4DE7F8ADC19D46137E09969CAEF0B4</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -1607,7 +1612,7 @@
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>.</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>02EF5671241309BC51E985E837EF0CB7</GUID>
+      <GUID>478A4DEAD10A3506E37D18CDC358DAC4</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
