@@ -19,6 +19,7 @@
 		<Item Name="testVI.vi" Type="VI" URL="../SLSC Remote Interface Class/testVI.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
@@ -28,7 +29,7 @@
 				<Item Name="JSONable.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NI JSONRPC Server Framework/Classes/JSONable/JSONable.lvclass"/>
 				<Item Name="JSONRPC Server.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NI JSONRPC Server Framework/Classes/Server/JSONRPC Server.lvclass"/>
 				<Item Name="LabVIEWHTTPClient.lvlib" Type="Library" URL="/&lt;vilib&gt;/httpClient/LabVIEWHTTPClient.lvlib"/>
-				<Item Name="LVJSON.lvlib" Type="Library" URL="/&lt;vilib&gt;/National Instruments/JSON Support for LabVIEW/LVJSON.lvlib"/>
+				<Item Name="LVJSON.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/JSON Support for LabVIEW/LVJSON.lvlib"/>
 				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl"/>
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
@@ -49,10 +50,10 @@
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
-			<Item Name="SLSC Interface" Type="Packed Library">
+			<Item Name="SLSC Interfaces - Windows" Type="Packed Library">
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{D04C10C2-82FC-401B-BE2B-688FD270700F}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">SLSC Interface</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">SLSC Interfaces - Windows</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
@@ -60,17 +61,17 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{50E768A5-AFE6-4427-AB2C-7A87B6CF9E9F}</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">6</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">SLSC Interface.lvlibp</Property>
-				<Property Name="Destination[0].path" Type="Path">../builds/Windows/NI_AB_PROJECTNAME.lvlibp</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/Windows/SLSC Interfaces - Windows.lvlibp</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/Windows</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{D27BC4C5-4613-4B3B-AEBF-BA0AED36769D}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{E26069A7-B4F3-482E-A310-6FBBF9A12A3F}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/SLSC Interfaces.lvlib</Property>
@@ -82,10 +83,10 @@
 				<Property Name="Source[1].type" Type="Str">Library</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_companyName" Type="Str">Microsoft</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">SLSC Interface</Property>
-				<Property Name="TgtF_internalName" Type="Str">SLSC Interface</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">SLSC Interfaces - Windows</Property>
+				<Property Name="TgtF_internalName" Type="Str">SLSC Interfaces - Windows</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2017 Microsoft</Property>
-				<Property Name="TgtF_productName" Type="Str">SLSC Interface</Property>
+				<Property Name="TgtF_productName" Type="Str">SLSC Interfaces - Windows</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{474C4AF0-4417-443C-9B4A-AA13993095C3}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">SLSC Interface.lvlibp</Property>
 			</Item>
@@ -143,6 +144,7 @@
 		<Item Name="SLSC Interfaces.lvlib" Type="Library" URL="../SLSC Interfaces.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
@@ -151,7 +153,7 @@
 				<Item Name="JSONable.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NI JSONRPC Server Framework/Classes/JSONable/JSONable.lvclass"/>
 				<Item Name="JSONRPC Server.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NI JSONRPC Server Framework/Classes/Server/JSONRPC Server.lvclass"/>
 				<Item Name="LabVIEWHTTPClient.lvlib" Type="Library" URL="/&lt;vilib&gt;/httpClient/LabVIEWHTTPClient.lvlib"/>
-				<Item Name="LVJSON.lvlib" Type="Library" URL="/&lt;vilib&gt;/National Instruments/JSON Support for LabVIEW/LVJSON.lvlib"/>
+				<Item Name="LVJSON.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/JSON Support for LabVIEW/LVJSON.lvlib"/>
 				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl"/>
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
@@ -183,7 +185,7 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{90234B17-025F-4FC7-B5B4-9A3F93D0EDE9}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/Pharlap</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">6</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">SLSC Interfaces.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/Pharlap/SLSC Interfaces.lvlibp</Property>
