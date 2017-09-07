@@ -10,7 +10,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Abstract Interface Wizard.vi" Type="VI" URL="../Abstract Interface Wizard.vi"/>
 		<Item Name="API Reference.vi" Type="VI" URL="../SLSC Interface Class/API Reference.vi">
 			<Property Name="marked" Type="Int">0</Property>
 		</Item>
@@ -44,7 +43,6 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Get Project Item Reference.vi" Type="VI" URL="../../../../Desktop/Get Project Item Reference.vi"/>
 			<Item Name="nislsclvapi.dll" Type="Document" URL="nislsclvapi.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -55,13 +53,10 @@
 				<Property Name="Bld_buildCacheID" Type="Str">{D04C10C2-82FC-401B-BE2B-688FD270700F}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">SLSC Interfaces - Windows</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
-				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
-				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">../builds/Windows</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
-				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{50E768A5-AFE6-4427-AB2C-7A87B6CF9E9F}</Property>
-				<Property Name="Bld_version.build" Type="Int">6</Property>
+				<Property Name="Bld_version.build" Type="Int">10</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">SLSC Interface.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/Windows/SLSC Interfaces - Windows.lvlibp</Property>
@@ -71,7 +66,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/Windows</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{E26069A7-B4F3-482E-A310-6FBBF9A12A3F}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{0D6F4BBA-A16B-4230-842D-A7D41EBC5AE3}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/SLSC Interfaces.lvlib</Property>
@@ -83,11 +78,51 @@
 				<Property Name="Source[1].type" Type="Str">Library</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_companyName" Type="Str">Microsoft</Property>
+				<Property Name="TgtF_enableDebugging" Type="Bool">true</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">SLSC Interfaces - Windows</Property>
 				<Property Name="TgtF_internalName" Type="Str">SLSC Interfaces - Windows</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2017 Microsoft</Property>
 				<Property Name="TgtF_productName" Type="Str">SLSC Interfaces - Windows</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{474C4AF0-4417-443C-9B4A-AA13993095C3}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">SLSC Interface.lvlibp</Property>
+			</Item>
+			<Item Name="SLSC Interfaces - Windows - CD Resources" Type="Packed Library">
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{D8F604DC-E2B6-43A4-99AF-9D1366F0D545}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">SLSC Interfaces - Windows - CD Resources</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/C/Users/tblair/Documents/Git Projects/SLSC CD Resources/SLSC Local or Remote Interface/2016/Windows</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{1D33FED1-5B5A-4CBE-AC9E-6DED35B642CA}</Property>
+				<Property Name="Bld_version.build" Type="Int">11</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">SLSC Interface.lvlibp</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/Users/tblair/Documents/Git Projects/SLSC CD Resources/SLSC Local or Remote Interface/2016/Windows/SLSC Interfaces - Windows - CD Resources.lvlibp</Property>
+				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">/C/Users/tblair/Documents/Git Projects/SLSC CD Resources/SLSC Local or Remote Interface/2016/Windows</Property>
+				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
+				<Property Name="Source[0].itemID" Type="Str">{4F3ED9CE-2810-4A2C-8437-0054FD0EE109}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/SLSC Interfaces.lvlib</Property>
+				<Property Name="Source[1].Library.allowMissingMembers" Type="Bool">true</Property>
+				<Property Name="Source[1].Library.atomicCopy" Type="Bool">true</Property>
+				<Property Name="Source[1].Library.LVLIBPtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[1].preventRename" Type="Bool">true</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">Library</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_companyName" Type="Str">Microsoft</Property>
+				<Property Name="TgtF_enableDebugging" Type="Bool">true</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">SLSC Interfaces - Windows</Property>
+				<Property Name="TgtF_internalName" Type="Str">SLSC Interfaces - Windows</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2017 Microsoft</Property>
+				<Property Name="TgtF_productName" Type="Str">SLSC Interfaces - Windows</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{6BA7FC7D-89FF-477B-88EF-DA4938E01EFC}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">SLSC Interface.lvlibp</Property>
 			</Item>
 		</Item>
@@ -185,7 +220,7 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{90234B17-025F-4FC7-B5B4-9A3F93D0EDE9}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/Pharlap</Property>
-				<Property Name="Bld_version.build" Type="Int">6</Property>
+				<Property Name="Bld_version.build" Type="Int">8</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">SLSC Interfaces.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/Pharlap/SLSC Interfaces.lvlibp</Property>
@@ -213,6 +248,47 @@
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2017 National Instruments</Property>
 				<Property Name="TgtF_productName" Type="Str">SLSC Interfaces - Pharlap</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{63BE27BC-E2CD-4E37-9E64-03A497B919B9}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">SLSC Interfaces.lvlibp</Property>
+			</Item>
+			<Item Name="SLSC Interfaces - Pharlap - CD Resources" Type="Packed Library">
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{46CCF1E0-27CA-4BCA-BBE4-2862A0BD83E2}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">SLSC Interfaces - Pharlap - CD Resources</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/C/Users/tblair/Documents/Git Projects/SLSC CD Resources/SLSC Local or Remote Interface/2016</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{419468C6-CABC-4C20-BD1B-0B62BB531A4E}</Property>
+				<Property Name="Bld_targetDestDir" Type="Path">/Pharlap</Property>
+				<Property Name="Bld_version.build" Type="Int">9</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">SLSC Interfaces.lvlibp</Property>
+				<Property Name="Destination[0].path" Type="Path">/Pharlap/SLSC Interfaces.lvlibp</Property>
+				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">/Pharlap</Property>
+				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{21D7BD3B-AB3C-4CB9-A077-2953519AC8F2}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/RT PXI Target/SLSC Interfaces.lvlib</Property>
+				<Property Name="Source[1].Library.allowMissingMembers" Type="Bool">true</Property>
+				<Property Name="Source[1].Library.atomicCopy" Type="Bool">true</Property>
+				<Property Name="Source[1].Library.LVLIBPtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[1].preventRename" Type="Bool">true</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">Library</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_companyName" Type="Str">National Instruments</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">SLSC Interfaces - Pharlap</Property>
+				<Property Name="TgtF_internalName" Type="Str">SLSC Interfaces - Pharlap</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2017 National Instruments</Property>
+				<Property Name="TgtF_productName" Type="Str">SLSC Interfaces - Pharlap</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{8A9CA8D1-BEE7-4DB6-B71C-D6AE8835CFEE}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">SLSC Interfaces.lvlibp</Property>
 			</Item>
 		</Item>

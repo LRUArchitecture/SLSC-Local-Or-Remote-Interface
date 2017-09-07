@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-06-23 09:18:59" Modified_Date="2017-08-31 17:35:20" Creator="Tanner Blair" Comments="" ID="96a545de732aba8b32a8fe26b30c0ccd">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-06-23 09:18:59" Modified_Date="2017-09-05 10:14:41" Creator="Tanner Blair" Comments="" ID="84e6f9ce195fc21b78e6127a126a9bff">
   <Library_General_Settings>
     <Package_File_Name>National_Instruments_lib_SLSC_Local_or_Remote_Interface</Package_File_Name>
-    <Library_Version>1.0.0.15</Library_Version>
+    <Library_Version>1.0.0.16</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>builds</Library_Output_Folder>
@@ -445,7 +445,7 @@
         <Path/>
         <VI_Title/>
       </Items_Data>
-      <GUID>3D3023CA74745019630ACCEC18268612</GUID>
+      <GUID>190542D2B780DEEEBEE761C28F1F9319</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -536,7 +536,7 @@
         <Path>Source\SLSC Interface Class\Abort Session.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B2DBA1FD698E71E69AE62B89E70EDB9D</GUID>
+      <GUID>41C2A7BBF250598230BC920C54343ABD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -613,7 +613,7 @@
         <Path/>
         <VI_Title/>
       </Items_Data>
-      <GUID>17951B77AE1D33D5831A41CA63F4A1D9</GUID>
+      <GUID>E986A882E70F7F1FB510557F8F28487D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -662,7 +662,7 @@
         <Path>Source\SLSC Interface Class\Register Access\Write Register.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D6DA2A8B6DBE147A68C6C9F0E5711644</GUID>
+      <GUID>37151331D980E97931D8E410E845619E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -781,7 +781,7 @@
         <Path>Source\SLSC Interface Class\System Configuration\Log Out.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4CE8C141F184880DF2C225C4C6251A9B</GUID>
+      <GUID>255AFB857E7008DAD249CD9CFC34F396</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -928,7 +928,7 @@
         <Path>Source\SLSC Interface Class\System Configuration\System PN\Get System Properties List.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9EADA7EB176BDF719FD21CE5FC810FD9</GUID>
+      <GUID>3EDB9705C923D138EF4D635A25994AB9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1033,7 +1033,7 @@
         <Path>Source\SLSC Interface Class\API Reflection\Close Property.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5CE1EA7540521B5BCFF253ACDD21EBE9</GUID>
+      <GUID>2E8915C8B5C5B50DEA6494907D720308</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1082,7 +1082,7 @@
         <Path>Source\SLSC Interface Class\API Reflection\Get Command Documentation.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2904F05C7EAA76C0895EF0F94AEC85ED</GUID>
+      <GUID>69A6A1D7D2A840A96E5498ECE4CDA536</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1215,7 +1215,7 @@
         <Path>Source\SLSC Interface Class\API Reflection\Property is Enum.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D7EEADB941BD5900BADDEC55A34D2229</GUID>
+      <GUID>6AF5DE0436495E1643E15DE61F73BC7A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1306,7 +1306,7 @@
         <Path>Source\Generic API Reflection</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>291E81DF49A5522EE705F73041C56B0B</GUID>
+      <GUID>AECEEBC89BA20A09FD48352D6EFDCF63</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>9</Parent_Palette_Index>
@@ -1411,7 +1411,7 @@
         <Path>Source\Property Properties</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4CAD592B54B93D5C342C315AEC2B2CE5</GUID>
+      <GUID>B44131DBDD9A61117FEE5B7DC9554956</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>10</Parent_Palette_Index>
@@ -1460,7 +1460,7 @@
         <Path>Source\SLSC Interface Class\API Reflection\Get Command Documentation.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4C89782200B55C99142ADA930AE56FAB</GUID>
+      <GUID>026E20E5C1EB084CD1E9078BCD789292</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>10</Parent_Palette_Index>
@@ -1593,7 +1593,7 @@
         <Path>Source\SLSC Interface Class\API Reflection\Property is Enum.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>80A95E5E94C1E394CAB03A1014345B9E</GUID>
+      <GUID>1B92DA458A497F83C1868C448AC95DF5</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -1614,7 +1614,7 @@
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>.</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>0398CF7EA5D97F33D1CB926F24CC3253</GUID>
+      <GUID>B4C1538C8331C7F3A2C4B6F787010C74</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
