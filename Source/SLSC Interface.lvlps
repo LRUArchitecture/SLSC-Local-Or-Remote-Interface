@@ -1,13 +1,5 @@
 [ProjectWindow_Data]
-ProjectExplorer.ClassicPosition[String] = "169,1114,647,1432"
-
-[AB_Cache_{D04C10C2-82FC-401B-BE2B-688FD270700F}]
-Cache_Path[Path] Line0001 = "/C/Users/tblair/AppData/Local/Temp/AB_Cache_{D04C1"
-Cache_Path[Path] Line0002 = "0C2-82FC-401B-BE2B-688FD270700F}.txt"
-
-[AB_Cache_{50E768A5-AFE6-4427-AB2C-7A87B6CF9E9F}]
-Cache_Path[Path] Line0001 = "/C/Users/tblair/AppData/Local/Temp/AB_Cache_{50E76"
-Cache_Path[Path] Line0002 = "8A5-AFE6-4427-AB2C-7A87B6CF9E9F}.txt"
+ProjectExplorer.ClassicPosition[String] = "80,1533,558,1851"
 
 [AB_Cache_{6BDCB472-2350-4317-9C12-5D6BBAF4766D}]
 Cache_Path[Path] Line0001 = "/C/Users/tblair/AppData/Local/Temp/AB_Cache_{6BDCB"
@@ -32,4 +24,12 @@ Cache_Path[Path] Line0002 = "4DC-E2B6-43A4-99AF-9D1366F0D545}.txt"
 [AB_Cache_{1D33FED1-5B5A-4CBE-AC9E-6DED35B642CA}]
 Cache_Path[Path] Line0001 = "/C/Users/tblair/AppData/Local/Temp/AB_Cache_{1D33F"
 Cache_Path[Path] Line0002 = "ED1-5B5A-4CBE-AC9E-6DED35B642CA}.txt"
+
+[AB_Cache_{D04C10C2-82FC-401B-BE2B-688FD270700F}]
+Cache_Path[Path] Line0001 = "/C/Users/tblair/AppData/Local/Temp/AB_Cache_{D04C1"
+Cache_Path[Path] Line0002 = "0C2-82FC-401B-BE2B-688FD270700F}.txt"
+
+[AB_Cache_{50E768A5-AFE6-4427-AB2C-7A87B6CF9E9F}]
+Cache_Path[Path] Line0001 = "/C/Users/tblair/AppData/Local/Temp/AB_Cache_{50E76"
+Cache_Path[Path] Line0002 = "8A5-AFE6-4427-AB2C-7A87B6CF9E9F}.txt"
 

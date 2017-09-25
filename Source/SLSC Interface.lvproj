@@ -48,25 +48,25 @@
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
-			<Item Name="SLSC Interfaces - Windows" Type="Packed Library">
+			<Item Name="SLSC Interfaces" Type="Packed Library">
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{D04C10C2-82FC-401B-BE2B-688FD270700F}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">SLSC Interfaces - Windows</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">SLSC Interfaces</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">../builds/Windows</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{50E768A5-AFE6-4427-AB2C-7A87B6CF9E9F}</Property>
-				<Property Name="Bld_version.build" Type="Int">10</Property>
+				<Property Name="Bld_version.build" Type="Int">12</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">SLSC Interface.lvlibp</Property>
-				<Property Name="Destination[0].path" Type="Path">../builds/Windows/SLSC Interfaces - Windows.lvlibp</Property>
+				<Property Name="Destination[0].destName" Type="Str">SLSC Interfaces.lvlibp</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/Windows/SLSC Interfaces.lvlibp</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/Windows</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{0D6F4BBA-A16B-4230-842D-A7D41EBC5AE3}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{FE69399F-27E7-42EA-B1FA-EC4FF8FF581A}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/SLSC Interfaces.lvlib</Property>
@@ -79,12 +79,12 @@
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_companyName" Type="Str">Microsoft</Property>
 				<Property Name="TgtF_enableDebugging" Type="Bool">true</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">SLSC Interfaces - Windows</Property>
-				<Property Name="TgtF_internalName" Type="Str">SLSC Interfaces - Windows</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">SLSC Interfaces</Property>
+				<Property Name="TgtF_internalName" Type="Str">SLSC Interfaces</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2017 Microsoft</Property>
-				<Property Name="TgtF_productName" Type="Str">SLSC Interfaces - Windows</Property>
+				<Property Name="TgtF_productName" Type="Str">SLSC Interfaces</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{474C4AF0-4417-443C-9B4A-AA13993095C3}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">SLSC Interface.lvlibp</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">SLSC Interfaces.lvlibp</Property>
 			</Item>
 			<Item Name="SLSC Interfaces - Windows - CD Resources" Type="Packed Library">
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
