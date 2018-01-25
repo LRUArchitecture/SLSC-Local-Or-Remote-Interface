@@ -5,6 +5,4 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="SLSC Interface.lvclass" Type="LVClass" URL="../SLSC Interface Class/SLSC Interface.lvclass"/>
-	<Item Name="SLSC Local.lvclass" Type="LVClass" URL="../SLSC Local Interface Class/SLSC Local.lvclass"/>
-	<Item Name="SLSC Remote.lvclass" Type="LVClass" URL="../SLSC Remote Interface Class/SLSC Remote.lvclass"/>
 </Library>
