@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-06-23 09:18:59" Modified_Date="2018-01-25 16:27:30" Creator="Tanner Blair" Comments="" ID="ef364d9fe732dba7ec6594cd8ddc5f5c">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-06-23 09:18:59" Modified_Date="2018-01-25 17:54:59" Creator="Tanner Blair" Comments="" ID="a474a2dd7a22087fe32cba06733162b5">
   <Library_General_Settings>
     <Package_File_Name>National_Instruments_lib_SLSC_Local_or_Remote_Interface</Package_File_Name>
-    <Library_Version>1.0.0.17</Library_Version>
+    <Library_Version>1.0.0.18</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>builds</Library_Output_Folder>
@@ -116,9 +116,6 @@
       <Exclusions>
         <Path>SLSC Interface.lvproj</Path>
       </Exclusions>
-      <Exclusions>
-        <Path>SLSC Interfaces.lvlib</Path>
-      </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath/>
     <Licensing_and_Activation>
@@ -207,7 +204,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Initialize.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Initialize.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -215,13 +212,13 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Initialize.vi</Path>
+        <Path>Source\SLSC Interface Class\NISE.Initialize.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Set Device Property.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Set Device Property.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -229,13 +226,13 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Set Device Property\Set Device Property.vi</Path>
+        <Path>Source\SLSC Interface Class\Set Device Property\NISE.Set Device Property.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Set Physical Channel Property.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Set Physical Channel Property.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -243,13 +240,13 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Set Physical Channel Property\Set Physical Channel Property.vi</Path>
+        <Path>Source\SLSC Interface Class\Set Physical Channel Property\NISE.Set Physical Channel Property.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Commit Properties.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Commit Properties.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -257,13 +254,13 @@
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Commit Properties\Commit Properties.vi</Path>
+        <Path>Source\SLSC Interface Class\Commit Properties\NISE.Commit Properties.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Execute Command.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Execute Command.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -271,13 +268,13 @@
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Execute Command\Execute Command.vi</Path>
+        <Path>Source\SLSC Interface Class\Execute Command\NISE.Execute Command.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Close Session.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Close Session.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -285,13 +282,13 @@
           <Column>6</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Close\Close Session.vi</Path>
+        <Path>Source\SLSC Interface Class\Close\NISE.Close Session.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Device Property.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Device Property.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -299,13 +296,13 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Get Device Property\Get Device Property.vi</Path>
+        <Path>Source\SLSC Interface Class\Get Device Property\NISE.Get Device Property.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Physical Channel Property.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Physical Channel Property.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -313,13 +310,13 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Get Physical Channel Property\Get Physical Channel Property.vi</Path>
+        <Path>Source\SLSC Interface Class\Get Physical Channel Property\NISE.Get Physical Channel Property.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Sub Palette</Type>
         <Sub_Palette_Index>1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Session Config</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Session Config</NameSub_Menu_Name>
         <Short_Name>Session Config</Short_Name>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -333,7 +330,7 @@
       <Items_Data>
         <Type>Sub Palette</Type>
         <Sub_Palette_Index>2</Sub_Palette_Index>
-        <NameSub_Menu_Name>NVMEM</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.NVMEM</NameSub_Menu_Name>
         <Short_Name>NVMEM</Short_Name>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -347,7 +344,7 @@
       <Items_Data>
         <Type>Sub Palette</Type>
         <Sub_Palette_Index>3</Sub_Palette_Index>
-        <NameSub_Menu_Name>Register Access</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Register Access</NameSub_Menu_Name>
         <Short_Name>Register Access</Short_Name>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -361,7 +358,7 @@
       <Items_Data>
         <Type>Sub Palette</Type>
         <Sub_Palette_Index>4</Sub_Palette_Index>
-        <NameSub_Menu_Name>System Configuration</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.System Configuration</NameSub_Menu_Name>
         <Short_Name>System Configuration</Short_Name>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -375,7 +372,7 @@
       <Items_Data>
         <Type>Sub Palette</Type>
         <Sub_Palette_Index>6</Sub_Palette_Index>
-        <NameSub_Menu_Name>API Reflection</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.API Reflection</NameSub_Menu_Name>
         <Short_Name>API Reflection</Short_Name>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -389,7 +386,7 @@
       <Items_Data>
         <Type>Sub Palette</Type>
         <Sub_Palette_Index>9</Sub_Palette_Index>
-        <NameSub_Menu_Name>Generic Property and Command Access</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Generic Property and Command Access</NameSub_Menu_Name>
         <Short_Name>Generic Property and Command Access</Short_Name>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -403,7 +400,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Flatten Names.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Flatten Names.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -417,7 +414,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Unflatten Names.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Unflatten Names.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -431,7 +428,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>BUILT_IN_FUNC_1920_8_2_Property Node</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.BUILT_IN_FUNC_1920_8_2_Property Node</NameSub_Menu_Name>
         <Short_Name>Property Node</Short_Name>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -442,7 +439,7 @@
         <Path/>
         <VI_Title/>
       </Items_Data>
-      <GUID>11F85BBFEEC6FB707584C9BD17CB81B2</GUID>
+      <GUID>FBABCCD8E601AB849CEDE8392722B259</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -466,7 +463,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Connect.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Connect.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -474,13 +471,13 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Connect.vi</Path>
+        <Path>Source\SLSC Interface Class\NISE.Connect.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Disconnect.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Disconnect.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -488,13 +485,13 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Disconnect.vi</Path>
+        <Path>Source\SLSC Interface Class\NISE.Disconnect.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Reserve.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Reserve.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -502,13 +499,13 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Reserve.vi</Path>
+        <Path>Source\SLSC Interface Class\NISE.Reserve.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Unreserve.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Unreserve.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -516,13 +513,13 @@
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Unreserve.vi</Path>
+        <Path>Source\SLSC Interface Class\NISE.Unreserve.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Abort Session.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Abort Session.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -530,10 +527,10 @@
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Abort Session.vi</Path>
+        <Path>Source\SLSC Interface Class\NISE.Abort Session.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B34E2F63B9316DE9511B2609DD661FC1</GUID>
+      <GUID>3995BBF19AE22610F7F89EF300CD083B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -557,7 +554,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get NVMEM Bytes.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get NVMEM Bytes.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -565,13 +562,13 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Get NVMEM Bytes.vi</Path>
+        <Path>Source\SLSC Interface Class\NISE.Get NVMEM Bytes.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Set NVMEM Bytes.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Set NVMEM Bytes.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -579,13 +576,13 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Set NVMEM Bytes.vi</Path>
+        <Path>Source\SLSC Interface Class\NISE.Set NVMEM Bytes.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Commit NVMEM.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Commit NVMEM.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -593,13 +590,13 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Commit NVMEM.vi</Path>
+        <Path>Source\SLSC Interface Class\NISE.Commit NVMEM.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>BUILT_IN_FUNC_1920_8_2_Property Node</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.BUILT_IN_FUNC_1920_8_2_Property Node</NameSub_Menu_Name>
         <Short_Name>Property Node</Short_Name>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -610,7 +607,7 @@
         <Path/>
         <VI_Title/>
       </Items_Data>
-      <GUID>23E95C0644D281C445174693D757E02B</GUID>
+      <GUID>533191DC7DBCBD5079E5B430229089DD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -634,7 +631,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Read Register.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Read Register.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -642,13 +639,13 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Register Access\Read Register.vi</Path>
+        <Path>Source\SLSC Interface Class\Register Access\NISE.Read Register.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Write Register.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Write Register.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -656,10 +653,10 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Register Access\Write Register.vi</Path>
+        <Path>Source\SLSC Interface Class\Register Access\NISE.Write Register.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6EDCFE3FEC276BF61018B29ED651EC8A</GUID>
+      <GUID>67ADDFBA7DE102CAF5B46042441F49CB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -683,7 +680,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Reset Devices.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Reset Devices.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -691,13 +688,13 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\System Configuration\Reset Devices.vi</Path>
+        <Path>Source\SLSC Interface Class\System Configuration\NISE.Reset Devices.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Add Network Chassis.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Add Network Chassis.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -705,13 +702,13 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\System Configuration\Add Network Chassis.vi</Path>
+        <Path>Source\SLSC Interface Class\System Configuration\NISE.Add Network Chassis.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Remove Chassis.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Remove Chassis.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -719,13 +716,13 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\System Configuration\Remove Chassis.vi</Path>
+        <Path>Source\SLSC Interface Class\System Configuration\NISE.Remove Chassis.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Rename Device.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Rename Device.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -733,13 +730,13 @@
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\System Configuration\Rename Device.vi</Path>
+        <Path>Source\SLSC Interface Class\System Configuration\NISE.Rename Device.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Sub Palette</Type>
         <Sub_Palette_Index>5</Sub_Palette_Index>
-        <NameSub_Menu_Name>System Properties</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.System Properties</NameSub_Menu_Name>
         <Short_Name>System Properties</Short_Name>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -753,7 +750,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Log In.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Log In.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -761,13 +758,13 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\System Configuration\Log In.vi</Path>
+        <Path>Source\SLSC Interface Class\System Configuration\NISE.Log In.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Log Out.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Log Out.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -775,10 +772,10 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\System Configuration\Log Out.vi</Path>
+        <Path>Source\SLSC Interface Class\System Configuration\NISE.Log Out.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4D1C857BFCF892D35E1707CCBFE4A942</GUID>
+      <GUID>028C32D55A0A0A19A0C5E3B9CA8C06F3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -802,7 +799,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Chassis List.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Chassis List.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -810,13 +807,13 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\System Configuration\System PN\Get Chassis List.vi</Path>
+        <Path>Source\SLSC Interface Class\System Configuration\System PN\NISE.Get Chassis List.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Device Properties List.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Device Properties List.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -824,13 +821,13 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\System Configuration\System PN\Get Device Properties List.vi</Path>
+        <Path>Source\SLSC Interface Class\System Configuration\System PN\NISE.Get Device Properties List.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Devices List.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Devices List.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -838,13 +835,13 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\System Configuration\System PN\Get Devices List.vi</Path>
+        <Path>Source\SLSC Interface Class\System Configuration\System PN\NISE.Get Devices List.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Modules List.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Modules List.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -852,13 +849,13 @@
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\System Configuration\System PN\Get Modules List.vi</Path>
+        <Path>Source\SLSC Interface Class\System Configuration\System PN\NISE.Get Modules List.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get NVMEM Area Properties List.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get NVMEM Area Properties List.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -866,13 +863,13 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\System Configuration\System PN\Get NVMEM Area Properties List.vi</Path>
+        <Path>Source\SLSC Interface Class\System Configuration\System PN\NISE.Get NVMEM Area Properties List.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get NVMEM Area Properties List.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get NVMEM Area Properties List.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -880,13 +877,13 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\System Configuration\System PN\Get NVMEM Area Properties List.vi</Path>
+        <Path>Source\SLSC Interface Class\System Configuration\System PN\NISE.Get NVMEM Area Properties List.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Physical Channel Properties List.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Physical Channel Properties List.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -894,13 +891,13 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\System Configuration\System PN\Get Physical Channel Properties List.vi</Path>
+        <Path>Source\SLSC Interface Class\System Configuration\System PN\NISE.Get Physical Channel Properties List.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Session Properties List.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Session Properties List.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -908,13 +905,13 @@
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\System Configuration\System PN\Get Session Properties List.vi</Path>
+        <Path>Source\SLSC Interface Class\System Configuration\System PN\NISE.Get Session Properties List.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get System Properties List.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get System Properties List.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -922,10 +919,10 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\System Configuration\System PN\Get System Properties List.vi</Path>
+        <Path>Source\SLSC Interface Class\System Configuration\System PN\NISE.Get System Properties List.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A829B1946856682606A8C1E0D922E09E</GUID>
+      <GUID>4BF135F8F1E605C457824F33B23BF139</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -949,7 +946,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Open Command.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Open Command.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -957,13 +954,13 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Open Command\Open Command.vi</Path>
+        <Path>Source\SLSC Interface Class\Open Command\NISE.Open Command.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Close Command.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Close Command.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -971,13 +968,13 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Close Command.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Close Command.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Sub Palette</Type>
         <Sub_Palette_Index>7</Sub_Palette_Index>
-        <NameSub_Menu_Name>Command Properties</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Command Properties</NameSub_Menu_Name>
         <Short_Name>Command Properties</Short_Name>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -991,7 +988,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Open Property.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Open Property.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -999,13 +996,13 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Open Property\Open Property.vi</Path>
+        <Path>Source\SLSC Interface Class\Open Property\NISE.Open Property.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Sub Palette</Type>
         <Sub_Palette_Index>8</Sub_Palette_Index>
-        <NameSub_Menu_Name>Property Properties</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Property Properties</NameSub_Menu_Name>
         <Short_Name>Property Properties</Short_Name>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1019,7 +1016,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Close Property.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Close Property.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1027,10 +1024,10 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Close Property.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Close Property.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C2E5572D1083BE4C941E638D44CC61AD</GUID>
+      <GUID>030D0D3CB89FDCC6AA4BB70DE3E7E622</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1054,7 +1051,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Command Description.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Command Description.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1062,13 +1059,13 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Get Command Description.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Get Command Description.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Command Documentation.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Command Documentation.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1076,10 +1073,10 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Get Command Documentation.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Get Command Documentation.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5F0563A8C057DA8C44B074B7F74E2FFD</GUID>
+      <GUID>055778EFF6F586CEDD55902B09DBA162</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1103,7 +1100,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Property Access.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Property Access.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1111,13 +1108,13 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Get Property Access.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Get Property Access.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Property DataType.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Property DataType.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1125,13 +1122,13 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Get Property DataType.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Get Property DataType.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Property Description.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Property Description.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1139,13 +1136,13 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Get Property Description.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Get Property Description.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Property Documentation.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Property Documentation.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1153,13 +1150,13 @@
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Get Property Documentation.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Get Property Documentation.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Property Enum Name.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Property Enum Name.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1167,13 +1164,13 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Get Property Enum Name.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Get Property Enum Name.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Property Enum Value Names.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Property Enum Value Names.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1181,13 +1178,13 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Get Property Enum Value Names.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Get Property Enum Value Names.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Property Enum Values.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Property Enum Values.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1195,13 +1192,13 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Get Property Enum Values.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Get Property Enum Values.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Property is Enum.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Property is Enum.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1209,10 +1206,10 @@
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Property is Enum.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Property is Enum.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A96726D680854E95EC240FD4AAE7BB14</GUID>
+      <GUID>5650F339F820F157B9CCF3DF3BD1A2E1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1236,7 +1233,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Generic Property.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Generic Property.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1244,13 +1241,13 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Get Generic Property\Get Generic Property.vi</Path>
+        <Path>Source\SLSC Interface Class\Get Generic Property\NISE.Get Generic Property.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Set Generic Property.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Set Generic Property.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1258,13 +1255,13 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Set Generic Property\Set Generic Property.vi</Path>
+        <Path>Source\SLSC Interface Class\Set Generic Property\NISE.Set Generic Property.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Commit Properties (Generic).vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Commit Properties (Generic).vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1272,13 +1269,13 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Commit Properties (Generic).vi</Path>
+        <Path>Source\SLSC Interface Class\NISE.Commit Properties (Generic).vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Execute Generic Command.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Execute Generic Command.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1286,13 +1283,13 @@
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Execute Generic Command.vi</Path>
+        <Path>Source\SLSC Interface Class\NISE.Execute Generic Command.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Sub Palette</Type>
         <Sub_Palette_Index>10</Sub_Palette_Index>
-        <NameSub_Menu_Name>Generic API Reflection</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Generic API Reflection</NameSub_Menu_Name>
         <Short_Name>Generic API Reflection</Short_Name>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1303,7 +1300,7 @@
         <Path>Source\Generic API Reflection</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E2803C896CFF99BE4D02BB98F44688C9</GUID>
+      <GUID>5E82154C8CEA3F5C23776E09E7535709</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>9</Parent_Palette_Index>
@@ -1327,7 +1324,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Open Generic Command.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Open Generic Command.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1335,13 +1332,13 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Open Command\Open Generic Command.vi</Path>
+        <Path>Source\SLSC Interface Class\Open Command\NISE.Open Generic Command.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Open Generic Property.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Open Generic Property.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1349,13 +1346,13 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\Open Property\Open Generic Property.vi</Path>
+        <Path>Source\SLSC Interface Class\Open Property\NISE.Open Generic Property.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Close Command.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Close Command.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1363,13 +1360,13 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Close Command.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Close Command.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Close Property.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Close Property.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1377,13 +1374,13 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Close Property.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Close Property.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Sub Palette</Type>
         <Sub_Palette_Index>11</Sub_Palette_Index>
-        <NameSub_Menu_Name>Command Properties</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Command Properties</NameSub_Menu_Name>
         <Short_Name>Command Properties</Short_Name>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1397,7 +1394,7 @@
       <Items_Data>
         <Type>Sub Palette</Type>
         <Sub_Palette_Index>12</Sub_Palette_Index>
-        <NameSub_Menu_Name>Property Properties</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Property Properties</NameSub_Menu_Name>
         <Short_Name>Property Properties</Short_Name>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1408,7 +1405,7 @@
         <Path>Source\Property Properties</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C63494EDF6C172A820F4AB08656F934A</GUID>
+      <GUID>1B7908DD20BBCEA43234E8E90C3D1C52</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>10</Parent_Palette_Index>
@@ -1432,7 +1429,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Command Description.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Command Description.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1440,13 +1437,13 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Get Command Description.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Get Command Description.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Command Documentation.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Command Documentation.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1454,10 +1451,10 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Get Command Documentation.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Get Command Documentation.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C045373667C872AC983DC19946BAA59D</GUID>
+      <GUID>78C6FDDCC08AC0E7B536D5FD2670BA81</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>10</Parent_Palette_Index>
@@ -1481,7 +1478,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Property Access.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Property Access.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1489,13 +1486,13 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Get Property Access.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Get Property Access.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Property DataType.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Property DataType.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1503,13 +1500,13 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Get Property DataType.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Get Property DataType.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Property Description.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Property Description.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1517,13 +1514,13 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Get Property Description.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Get Property Description.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Property Documentation.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Property Documentation.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1531,13 +1528,13 @@
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Get Property Documentation.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Get Property Documentation.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Property Enum Name.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Property Enum Name.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1545,13 +1542,13 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Get Property Enum Name.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Get Property Enum Name.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Property Enum Value Names.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Property Enum Value Names.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1559,13 +1556,13 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Get Property Enum Value Names.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Get Property Enum Value Names.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Property Enum Values.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Get Property Enum Values.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1573,13 +1570,13 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Get Property Enum Values.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Get Property Enum Values.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Property is Enum.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>NISE.Property is Enum.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -1587,31 +1584,10 @@
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\SLSC Interface Class\API Reflection\Property is Enum.vi</Path>
+        <Path>Source\SLSC Interface Class\API Reflection\NISE.Property is Enum.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>49588749C16A1CE23D9C050B2AA6B7F4</GUID>
+      <GUID>FBA1E2C7F2076F248150FCC3E83CE8B7</GUID>
     </Functions_Palette_Data>
-    <Controls_Palette_Data>
-      <Parent_Palette_Index>-1</Parent_Palette_Index>
-      <Name/>
-      <View_Format>Icons</View_Format>
-      <Size>
-        <Height_Row>1</Height_Row>
-        <Width_Col.>4</Width_Col.>
-      </Size>
-      <_256_Color_Icon>00000CA0002800000C9A00000400000000000020002000080000000000FFFFFF00FF80000000FFFFFFFFFFFF0000FFFFFFFFCCCC0000FFFFFFFF99990000FFFFFFFF66660000FFFFFFFF33330000FFFFFFFF00000000FFFFCCCCFFFF0000FFFFCCCCCCCC0000FFFFCCCC99990000FFFFCCCC66660000FFFFCCCC33330000FFFFCCCC00000000FFFF9999FFFF0000FFFF9999CCCC0000FFFF999999990000FFFF999966660000FFFF999933330000FFFF999900000000FFFF6666FFFF0000FFFF6666CCCC0000FFFF666699990000FFFF666666660000FFFF666633330000FFFF666600000000FFFF3333FFFF0000FFFF3333CCCC0000FFFF333399990000FFFF333366660000FFFF333333330000FFFF333300000000FFFF0000FFFF0000FFFF0000CCCC0000FFFF000099990000FFFF000066660000FFFF000033330000FFFF000000000000CCCCFFFFFFFF0000CCCCFFFFCCCC0000CCCCFFFF99990000CCCCFFFF66660000CCCCFFFF33330000CCCCFFFF00000000CCCCCCCCFFFF0000CCCCCCCCCCCC0000CCCCCCCC99990000CCCCCCCC66660000CCCCCCCC33330000CCCCCCCC00000000CCCC9999FFFF0000CCCC9999CCCC0000CCCC999999990000CCCC999966660000CCCC999933330000CCCC999900000000CCCC6666FFFF0000CCCC6666CCCC0000CCCC666699990000CCCC666666660000CCCC666633330000CCCC666600000000CCCC3333FFFF0000CCCC3333CCCC0000CCCC333399990000CCCC333366660000CCCC333333330000CCCC333300000000CCCC0000FFFF0000CCCC0000CCCC0000CCCC000099990000CCCC000066660000CCCC000033330000CCCC0000000000009999FFFFFFFF00009999FFFFCCCC00009999FFFF999900009999FFFF666600009999FFFF333300009999FFFF000000009999CCCCFFFF00009999CCCCCCCC00009999CCCC999900009999CCCC666600009999CCCC333300009999CCCC0000000099999999FFFF000099999999CCCC0000999999999999000099999999666600009999999933330000999999990000000099996666FFFF000099996666CCCC0000999966669999000099996666666600009999666633330000999966660000000099993333FFFF000099993333CCCC0000999933339999000099993333666600009999333333330000999933330000000099990000FFFF000099990000CCCC000099990000999900009999000066660000999900003333000099990000000000006666FFFFFFFF00006666FFFFCCCC00006666FFFF999900006666FFFF666600006666FFFF333300006666FFFF000000006666CCCCFFFF00006666CCCCCCCC00006666CCCC999900006666CCCC666600006666CCCC333300006666CCCC0000000066669999FFFF000066669999CCCC0000666699999999000066669999666600006666999933330000666699990000000066666666FFFF000066666666CCCC0000666666669999000066666666666600006666666633330000666666660000000066663333FFFF000066663333CCCC0000666633339999000066663333666600006666333333330000666633330000000066660000FFFF000066660000CCCC000066660000999900006666000066660000666600003333000066660000000000003333FFFFFFFF00003333FFFFCCCC00003333FFFF999900003333FFFF666600003333FFFF333300003333FFFF000000003333CCCCFFFF00003333CCCCCCCC00003333CCCC999900003333CCCC666600003333CCCC333300003333CCCC0000000033339999FFFF000033339999CCCC0000333399999999000033339999666600003333999933330000333399990000000033336666FFFF000033336666CCCC0000333366669999000033336666666600003333666633330000333366660000000033333333FFFF000033333333CCCC0000333333339999000033333333666600003333333333330000333333330000000033330000FFFF000033330000CCCC000033330000999900003333000066660000333300003333000033330000000000000000FFFFFFFF00000000FFFFCCCC00000000FFFF999900000000FFFF666600000000FFFF333300000000FFFF000000000000CCCCFFFF00000000CCCCCCCC00000000CCCC999900000000CCCC666600000000CCCC333300000000CCCC0000000000009999FFFF000000009999CCCC0000000099999999000000009999666600000000999933330000000099990000000000006666FFFF000000006666CCCC0000000066669999000000006666666600000000666633330000000066660000000000003333FFFF000000003333CCCC0000000033339999000000003333666600000000333333330000000033330000000000000000FFFF000000000000CCCC0000000000009999000000000000666600000000000033330000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000000000000000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000000000000000EEEE000000000000DDDD000000000000BBBB000000000000AAAA0000000000008888000000000000777700000000000055550000000000004444000000000000222200000000000011110000EEEEEEEEEEEE0000DDDDDDDDDDDD0000BBBBBBBBBBBB0000AAAAAAAAAAAA00008888888888880000777777777777000055555555555500004444444444440000222222222222000011111111111100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000F6F6F6F6FFFF0000000000000000000000000000000000000000000000000000FFFFFFFF0000FF00000000000000000000000000000000000000000000000000FFFFFFFF0000FF0000000000000000000000000000000000000000000000000000000000FFFFFFFF00000000FFFF0000000000000000000000000000000000000000000000000000FFFF00FF0000FFFFFFFF000000000000000000000000000000000000000000000000FFFF0000FFFFFFFF000000000000000000000000000000000000FFFF000000000000FFFF000000000000000000000000000000000000FFFFFFFF0000FF00000000000000000000000000000000000000000000000000FFFFFFFF0000FF000000000000000000FF0000000000FF0000000000FF00000000000000FFFF00000000000000000000FF0000000000FF0000000000FF0000000000000000000000000000000000000081FF00000000FF0000000000FF00000000000000000000000000000000000000000081000000FF0000000000FF00000000000000000000000000000000000000000081000000FF0000000000FFFF00000000000000000000000000000000000081FF0000FFFFFFFFFF00FFFF0000000000000000000000000000000000000000000081000000000000000000FFFF00000000000000000000000000000000000000008100000000000000FFFF000000000000000000000000000000000000000081FF0000FFFFFFFFFF000000FFFF000000000000000000000000000000000000000081000000FF000000FFFF0000000000000000000000000000000000000000000081000000FF0000000000FF000000000000FFFF0000000000000000000000FCFF00000000FF0000000000FF000000000000FF00FFFF000000000000000000FF0000000000FF0000000000FF000000000000FF000000FFFF00000000000000FF0000000000FF0000000000FF000000000000FF0000000000FFFF000000000000000000000000000000000000000000FFFFFFFF00000000000000FFFFFFFF0000232300000000000000000000000000000000FF0000000000FFFF00000000002323232300000000CD9CCD0000000000000000FF000000FFFF000000000000232323232323000000CD9CCD0000000000000000FF00FFFF000000000000000000232323230000CDCD9C9C9CCDCD000000000000FFFF00000000000000000000002300002300009C9C9CCD9C9C9C00000000000000000000000000000000000000230000230000CDCDCD00CDCDCD0000000000000000000000000000000000000000000000000000000000000000000000000000000000007E0000007F0000007F00000007860000006FE000001FE000060600007F0000007F00410406004104000061040000110400001106000067D80000100600001018000067C600001118000011040C0061040F0041040FC041040FF000007FFF30000FF078700FC0FC700F0079FC0C0049FC000049DC00000000</_256_Color_Icon>
-      <BW_Color_Icon>00000000</BW_Color_Icon>
-      <Help_Info>
-        <Help_Tag/>
-        <Help_File_Path/>
-      </Help_Info>
-      <Description/>
-      <Synchronization_Info>
-        <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
-        <Synchronize_Directory_Path>.</Synchronize_Directory_Path>
-      </Synchronization_Info>
-      <GUID>557473607B99D0891EE1BEC6E968040D</GUID>
-    </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
