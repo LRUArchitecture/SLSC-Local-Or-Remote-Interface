@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-06-23 09:18:59" Modified_Date="2018-02-01 01:12:51" Creator="Tanner Blair" Comments="" ID="e4428a1b2f400022795ca9998614ebab">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-06-23 09:18:59" Modified_Date="2018-02-01 03:47:14" Creator="Tanner Blair" Comments="" ID="0316b3b3782300a95c97ddee3222b4c9">
   <Library_General_Settings>
     <Package_File_Name>National_Instruments_lib_SLSC_Local_or_Remote_Interface</Package_File_Name>
-    <Library_Version>1.0.0.20</Library_Version>
+    <Library_Version>2.1.0.21</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>builds</Library_Output_Folder>
@@ -17,7 +17,8 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <Additional_External_Dependencies>ni_lib_lvjson &gt;=1.0.0.48</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_lib_jsonrpc &gt;=2.1.0.38</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_lib_lvjson &gt;=2.1.0.65</Additional_External_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
@@ -34,7 +35,7 @@
       <Copyright/>
       <Packager/>
       <URL/>
-      <Release_Notes/>
+      <Release_Notes>!!!Breaking change, updated to 2.1 releases of dependencies.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -439,7 +440,7 @@
         <Path/>
         <VI_Title/>
       </Items_Data>
-      <GUID>87D3C6576E579EADD9AAAA51CF73F9B2</GUID>
+      <GUID>3D34FF3949E2A09A5A07E2C1C5A0A864</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -530,7 +531,7 @@
         <Path>Source\SLSC Interface Class\NISE.Abort Session.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EDD005E3693FFBA7F6A63603C8DD5222</GUID>
+      <GUID>164BBA970108AEA83D252727C0982CD1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -607,7 +608,7 @@
         <Path/>
         <VI_Title/>
       </Items_Data>
-      <GUID>5E3128CDFA183E24ECB8DE59BC3D82DE</GUID>
+      <GUID>4C8D0921F2450EADDE0B94CE500D4934</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -656,7 +657,7 @@
         <Path>Source\SLSC Interface Class\Register Access\NISE.Write Register.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4FFA8ED8677767EA995D5302443C6FAD</GUID>
+      <GUID>F3DDEAE4DF44DE045FBBEE8292EE9A84</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -775,7 +776,7 @@
         <Path>Source\SLSC Interface Class\System Configuration\NISE.Log Out.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C02F3B835AE290C5924569A36CED871E</GUID>
+      <GUID>E7AC0E7FC932FA72E80BF53B9E0EA580</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -922,7 +923,7 @@
         <Path>Source\SLSC Interface Class\System Configuration\System PN\NISE.Get System Properties List.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9ED023AC5FA1A34AC669F20B43B74DC3</GUID>
+      <GUID>F1841470F9001EFBCE5B76F1D8044A46</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1027,7 +1028,7 @@
         <Path>Source\SLSC Interface Class\API Reflection\NISE.Close Property.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1B0B6B346153E8D65937AF3008BAB80F</GUID>
+      <GUID>4F744DBB17EB65B3D78065EAC1F6DE5F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1076,7 +1077,7 @@
         <Path>Source\SLSC Interface Class\API Reflection\NISE.Get Command Documentation.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1C46489BC0D5D7F2D8E7BE4BE5E94721</GUID>
+      <GUID>F2AB7E9ECBF123C67E75A3DDAFADF9BA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1209,7 +1210,7 @@
         <Path>Source\SLSC Interface Class\API Reflection\NISE.Property is Enum.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E88B59CB3AB8A4F46EF68134A1C9B5FE</GUID>
+      <GUID>D8A003A0BC6959A6A40B064F910C9647</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1300,7 +1301,7 @@
         <Path>Source\Generic API Reflection</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FF351EC2747814CBBAC0922AB5608736</GUID>
+      <GUID>65E085AAE17CC3CA102A140CBAAAC984</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>9</Parent_Palette_Index>
@@ -1405,7 +1406,7 @@
         <Path>Source\Property Properties</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7BFDC27966CA8B275290357AC392B3A8</GUID>
+      <GUID>FBDD41DEB54B782EDEC49C9E5DBB5D84</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>10</Parent_Palette_Index>
@@ -1454,7 +1455,7 @@
         <Path>Source\SLSC Interface Class\API Reflection\NISE.Get Command Documentation.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>983B918539AB1D84BE8D981324048E9B</GUID>
+      <GUID>0E5278AE4B4F22EA8CD56CB69E440C02</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>10</Parent_Palette_Index>
@@ -1587,7 +1588,7 @@
         <Path>Source\SLSC Interface Class\API Reflection\NISE.Property is Enum.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4EF05418370689CFBA6B9E033502D33E</GUID>
+      <GUID>33CE0E2472844C0C6A19EA5FF3F00D78</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
