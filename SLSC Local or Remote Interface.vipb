@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-06-23 09:18:59" Modified_Date="2018-01-26 13:01:24" Creator="Tanner Blair" Comments="" ID="7c4d1c73b3e7487dd31abcde2a166b51">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-06-23 09:18:59" Modified_Date="2018-02-01 01:12:51" Creator="Tanner Blair" Comments="" ID="e4428a1b2f400022795ca9998614ebab">
   <Library_General_Settings>
     <Package_File_Name>National_Instruments_lib_SLSC_Local_or_Remote_Interface</Package_File_Name>
-    <Library_Version>1.0.0.19</Library_Version>
+    <Library_Version>1.0.0.20</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>builds</Library_Output_Folder>
@@ -439,7 +439,7 @@
         <Path/>
         <VI_Title/>
       </Items_Data>
-      <GUID>D8AD1873ACE00E04045C9C23CC8F538B</GUID>
+      <GUID>87D3C6576E579EADD9AAAA51CF73F9B2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -530,7 +530,7 @@
         <Path>Source\SLSC Interface Class\NISE.Abort Session.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D9DC6E70119458FCB545CACEAD49F586</GUID>
+      <GUID>EDD005E3693FFBA7F6A63603C8DD5222</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -607,7 +607,7 @@
         <Path/>
         <VI_Title/>
       </Items_Data>
-      <GUID>587D98EAFC7A946D8BAB0822B6090248</GUID>
+      <GUID>5E3128CDFA183E24ECB8DE59BC3D82DE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -656,7 +656,7 @@
         <Path>Source\SLSC Interface Class\Register Access\NISE.Write Register.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FFBACB622ECEE289299FCC951DD184A6</GUID>
+      <GUID>4FFA8ED8677767EA995D5302443C6FAD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -775,7 +775,7 @@
         <Path>Source\SLSC Interface Class\System Configuration\NISE.Log Out.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E8F49FE46B66B78746A4BCE13B891DDB</GUID>
+      <GUID>C02F3B835AE290C5924569A36CED871E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -922,7 +922,7 @@
         <Path>Source\SLSC Interface Class\System Configuration\System PN\NISE.Get System Properties List.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A5674388D570E9CDD5B787A504DB01BC</GUID>
+      <GUID>9ED023AC5FA1A34AC669F20B43B74DC3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1027,7 +1027,7 @@
         <Path>Source\SLSC Interface Class\API Reflection\NISE.Close Property.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>949C68271F4D4267F116FF0BEE132347</GUID>
+      <GUID>1B0B6B346153E8D65937AF3008BAB80F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1076,7 +1076,7 @@
         <Path>Source\SLSC Interface Class\API Reflection\NISE.Get Command Documentation.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B96C2127D5852283AC1BCB78EDCF63C4</GUID>
+      <GUID>1C46489BC0D5D7F2D8E7BE4BE5E94721</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1209,7 +1209,7 @@
         <Path>Source\SLSC Interface Class\API Reflection\NISE.Property is Enum.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B621A6C57644918934C0DFCB05F75E12</GUID>
+      <GUID>E88B59CB3AB8A4F46EF68134A1C9B5FE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1300,7 +1300,7 @@
         <Path>Source\Generic API Reflection</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EC7A000AC1E8754CFFF50106F9C04905</GUID>
+      <GUID>FF351EC2747814CBBAC0922AB5608736</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>9</Parent_Palette_Index>
@@ -1405,7 +1405,7 @@
         <Path>Source\Property Properties</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>88EBC2B0405792111A6EBD7ED2EC1EE3</GUID>
+      <GUID>7BFDC27966CA8B275290357AC392B3A8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>10</Parent_Palette_Index>
@@ -1454,7 +1454,7 @@
         <Path>Source\SLSC Interface Class\API Reflection\NISE.Get Command Documentation.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6288A787BC63A535AA322659CDCC6B4A</GUID>
+      <GUID>983B918539AB1D84BE8D981324048E9B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>10</Parent_Palette_Index>
@@ -1587,7 +1587,7 @@
         <Path>Source\SLSC Interface Class\API Reflection\NISE.Property is Enum.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D2EFA7F2F0A1061AAA51C6DAD867207F</GUID>
+      <GUID>4EF05418370689CFBA6B9E033502D33E</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
